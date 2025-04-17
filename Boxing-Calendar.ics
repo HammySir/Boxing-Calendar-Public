@@ -2,1044 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Curmel Moton vs. Frank Zaldivar
-UID:f3eae007-0484-44c5-8203-8e3e097c63a6@f3ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T010000Z
-SUMMARY:Joshua Anton vs. Cameron Krael
-UID:e3aa9c6e-fbb3-4b2c-9512-fafbb269b7f0@e3aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T200000Z
-SUMMARY:William Crolla vs. Ayoub Zakari
-UID:81b14279-f242-41b7-882b-8332be1b2633@81b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250215T000000Z
-SUMMARY:Abdullah Mason vs. Manuel Jaimes
-UID:47b35259-a89d-4fa9-a068-7054a61088b2@47b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:County Coliseum\, USA
-DTSTART:20250223T000000Z
-SUMMARY:Devon Young vs. Sergio Uribe
-UID:3e809b1a-1b22-4ef6-a3f6-eeac54f22e09@3e80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBC
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T150000Z
-SUMMARY:Shakur Stevenson vs. Josh Padley
-UID:fc6893d3-d1a4-4362-9c6f-6ad5b6fcdccb@fc68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Featherweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Kaipo Gallegos vs. Leonardo Padilla
-UID:a9f5ae2b-da91-47e2-aac3-6abdd2ee4b0b@a9f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Jesus Alejandro Ramos vs. Jeison Rosario
-UID:2bbfc0d7-5164-4148-a5cf-2f8401ede018@2bbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250124T100000Z
-SUMMARY:Naoya Inoue vs. Ye vs. Joon Kim
-UID:fb04c944-71d0-4b5a-837b-c967302fabc5@fb04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Featherweight: EBU
-DURATION:PT3H
-LOCATION:Bournemouth International Centre\, England
-DTSTART:20250301T220000Z
-SUMMARY:Ryan Garner vs. Salvador Jimenez
-UID:e3724f06-8ac2-46b5-b375-9982e1f3d647@e372.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T180000Z
-SUMMARY:Hassan Azim vs. Jensen Irving
-UID:2e0ddf48-c8f4-4a2b-9d5c-9e06b641f4fb@2e0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBC
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T160000Z
-SUMMARY:Shakur Stevenson vs. Floyd Schofield
-UID:3fa0f0fa-2f1f-4615-b130-5a6d2c924da6@3fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Minimumweight: WBC
-DURATION:PT3H
-LOCATION:Aichi Sky Expo\, Japan
-DTSTART:20250330T120000Z
-SUMMARY:Melvin Jerusalem vs. Yudai Shigeoka
-UID:9bcf9a4f-e1bf-4b92-ac5f-ede9952ef92a@9bcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Flyweight: WBC
-DURATION:PT3H
-LOCATION:Kokugikan\, Japan
-DTSTART:20250313T090000Z
-SUMMARY:Anthony Olascuaga vs. Hiroto Kyoguchi
-UID:e9ee9b3f-d525-4110-a7aa-2eb5fbaed059@e9ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Light Heavyweight
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250111T180000Z
-SUMMARY:Billy Deniz vs. Mickey Ellison
-UID:b96b16a0-e62f-4494-ad65-b21b127c0bdc@b96b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Bantamweight: WBO
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250124T130000Z
-SUMMARY:Yoshiki Takei vs. Yuttapong Tongdee
-UID:a01ab3cb-b453-4d1a-97e5-e7ce70f9b593@a01a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:County Coliseum\, USA
-DTSTART:20250223T000000Z
-SUMMARY:Victor Aranda vs. Eduardo Monrreal
-UID:467d3f86-fa6e-4879-9b23-99e12914c4cc@467d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welterweight
-DURATION:PT3H
-LOCATION:Estadio F.A.B.\, Argentina
-DTSTART:20250222T230000Z
-SUMMARY:Alex Alfonso vs. Cesar Toloza
-UID:61a69998-76e6-4eb9-83c6-25dace5d05c9@61a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Middleweight: Commonwealth
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250111T220000Z
-SUMMARY:Callum Simpson vs. Steed Woodall
-UID:7edf43a6-2521-44f6-bbc0-73cf29a2869f@7edf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Featherweight
-DURATION:PT3H
-LOCATION:County Coliseum\, USA
-DTSTART:20250223T000000Z
-SUMMARY:Andres Rey vs. Joshua Briones
-UID:b02f4cea-9a65-4fb4-a4aa-3025288e8d5c@b02f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Jose Benavidez vs. Danny Rosenberger
-UID:8fe50faa-c580-4a3c-b373-4bd80889382b@8fe5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T200000Z
-SUMMARY:Aqib Fiaz vs. Lydon Chircop
-UID:a7a83038-7750-4855-a145-3b87a863d533@a7a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Cruiserweight
-DURATION:PT3H
-LOCATION:Nottingham Arena\, England
-DTSTART:20250125T180000Z
-SUMMARY:Traie Duberry vs. Camilo Castagno
-UID:3f2b7dc4-973f-468a-86f1-9b1b96c1ee10@3f2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Bantamweight
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T010000Z
-SUMMARY:Adan Palma vs. Sharone Carter
-UID:f5ff71ee-6245-41bb-a4b2-d8dc9d4f19c6@f5ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Flyweight
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T180000Z
-SUMMARY:Alfie Clegg vs. Sebastian Alejandro
-UID:65d6ff50-d7b0-48a3-b947-d9945242982a@65d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250124T090000Z
-SUMMARY:Tsubasa Narai vs. Kai Watanabe
-UID:a08f1d96-c55c-4ddb-9dfc-7580a50b86d8@a08f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250214T230000Z
-SUMMARY:Nico Ali Walsh vs. Juan Carlos Guerra
-UID:763c2594-db61-4aea-80c9-57aed9f4c01a@763c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Welterweight: WBA Super
-DURATION:PT3H
-LOCATION:Espace St-Denis\, Canada
-DTSTART:20250315T030000Z
-SUMMARY:Mary Spencer vs. Ogleidis Suarez
-UID:c6d56bae-9b14-44ee-8ac0-26bf70e02547@c6d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Featherweight: Commonwealth
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T210000Z
-SUMMARY:Reece Bellotti vs. Michael Gomez Jr.
-UID:a1140260-46e3-4c2a-9d8e-1c687769a437@a114.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Featherweight: WBA
-DURATION:PT3H
-LOCATION:Echo Arena\, Great Britain
-DTSTART:20250315T220000Z
-SUMMARY:Nick Ball vs. TJ Doheny
-UID:bab16eeb-2d28-4080-a3ff-a7efc8fe3f45@bab1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Featherweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Gabriela Tellez vs. Abril Anguiano
-UID:1c5cc431-855f-4bdd-a153-d94ccc916ae5@1c5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Bantamweight
-DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Ashleyann Lozada vs. Denise Moran
-UID:728ca2d2-6bbb-4eba-bfcd-d79e8a6f4f38@728c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Featherweight
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T030000Z
-SUMMARY:Omar Trinidad vs. Mike Plania
-UID:3b81b68d-dd96-43b0-aced-9a4996ce4c24@3b81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Kodi Shallali vs. Albert Tu'ua
-UID:b48fab2e-c3f9-4c1e-9dba-17815704d275@b48f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welterweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T200000Z
-SUMMARY:Pat McCormack vs. Robbie Davies
-UID:751eecf0-543f-4c4d-8c33-c41996c4b33e@751e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Heavyweight: IBF
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T160000Z
-SUMMARY:Daniel Dubois vs. Joseph Parker
-UID:8ea4b9c3-7ee0-4896-929e-0160c8077da2@8ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: Commonwealth
-DURATION:PT3H
-LOCATION:York Hall\, Great Britain
-DTSTART:20250330T210000Z
-SUMMARY:Constantin Ursu vs. Eithan James
-UID:19ce2c73-e688-443d-b215-f70c6c436365@19ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Flyweight: WBO
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T030000Z
-SUMMARY:Mizuki Hiruta vs. Maribel Ramirez
-UID:3fc78d5d-5d0d-41a9-b381-0184ac68618a@3fc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Lightweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Taylah Gentzen vs. Shauna Browne
-UID:e879df54-8564-4116-b4d5-28545e32062d@e879.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Cruiserweight: IBF
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T120000Z
-SUMMARY:Jai Tapu Opetaia vs. David Nyika
-UID:d6609191-869b-4c21-9655-10fe3521ea33@d660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Teremoana Junior vs. Osasu Otobo
-UID:e78d825b-9ec1-4df5-948f-e8ef8a21bb5c@e78d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250111T180000Z
-SUMMARY:Sam Hickey vs. Lewis Howells
-UID:cbbbea92-8edc-41af-ba8c-c75a46fac8a2@cbbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Featherweight
-DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Caroline Veyre vs. Carmen Vargas
-UID:886bfcf0-70c4-4158-a9e5-3031bd7ff45c@886b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Middleweight
-DURATION:PT3H
-LOCATION:County Coliseum\, USA
-DTSTART:20250223T000000Z
-SUMMARY:Jorge Tovar vs. Juan Francisco Lopez
-UID:f2fbd006-5457-48f2-94a0-904939fb32f0@f2fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T010000Z
-SUMMARY:Tayden Beltran vs. Eugene Lagos
-UID:35bfe6c7-9d0b-40ec-87c1-d61f84bc00fb@35bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Lightweight
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T140000Z
-SUMMARY:Ziyad Almaayouf vs. Jonatas de Oliveira
-UID:cd63443a-d2c9-4ab8-bfeb-0c53c760d5d0@cd63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T180000Z
-SUMMARY:Lewis Williams vs. Cristian Uwaka
-UID:5ec32eee-464c-44a0-83ee-c0011c98adab@5ec3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:Estadio F.A.B.\, Argentina
-DTSTART:20250222T230000Z
-SUMMARY:Micaela Dominguez vs. Lorena Agoutborde
-UID:88f858f3-b957-459f-ad68-bec765573f0c@88f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Featherweight
-DURATION:PT3H
-LOCATION:Nottingham Arena\, England
-DTSTART:20250125T200000Z
-SUMMARY:Nico Leivars vs. Lewis Morris
-UID:61ec0c13-a773-4ba3-857a-2cc19d2a06ad@61ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Minimumweight: WBA
-DURATION:PT3H
-LOCATION:Korakuen Hall\, Japan
-DTSTART:20250121T120000Z
-SUMMARY:Yuko Kuroki vs. Ye vs. Kyeng Seo
-UID:ba875454-eb2b-473f-8b0c-1c15106122c0@ba87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Flyweight: IBF
-DURATION:PT3H
-LOCATION:Aichi Sky Expo\, Japan
-DTSTART:20250329T130000Z
-SUMMARY:Angel Ayala vs. Masamichi Yabuki
-UID:8cb4b8f7-90f9-4d79-8262-4558dd3ae157@8cb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250124T130000Z
-SUMMARY:Naoya Inoue vs. Sam Goodman
-UID:63a5cb67-44f1-4756-868c-5b017257386d@63a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Featherweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T200000Z
-SUMMARY:Alfie Middlemiss vs. Caine Singh
-UID:fe94fe0e-3f6e-45b5-862f-f5c3b1e6f364@fe94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Featherweight
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T010000Z
-SUMMARY:Iyana Verduzco vs. Lindsey Ellis
-UID:32de1988-ca73-4338-bcd5-c305c2f53ee3@32de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Bantamweight: Commonwealth
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250207T220000Z
-SUMMARY:Tysie Gallagher vs. Ebonie Jones
-UID:0844a764-0c4b-423f-8fb9-268e6131afaa@0844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250215T020000Z
-SUMMARY:Xander Zayas vs. Slawa Spomer
-UID:5e181da5-5e66-49b6-8d04-a04610a8fdd2@5e18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Middleweight
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T020000Z
-SUMMARY:Ali Akhmedov vs. Malcolm Jones
-UID:e456596e-3473-45ef-897d-dd6f95645e58@e456.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Middleweight: Commonwealth
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T200000Z
-SUMMARY:Callum Simpson vs. Elvis Ahorgah
-UID:8f0c8e5f-0043-4cee-84fc-4930406b67e7@8f0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T140000Z
-SUMMARY:Mohammed Alakel vs. Engel Gomez
-UID:d73b5a3c-7e9d-4760-873c-15d139205000@d73b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T190000Z
-SUMMARY:Jeamie Tshikeva vs. Michael Webster
-UID:e986d2ee-608c-46d7-bbd1-c25c91f74011@e986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Bantamweight: Commonwealth
-DURATION:PT3H
-LOCATION:Echo Arena\, Great Britain
-DTSTART:20250315T220000Z
-SUMMARY:Andrew Cain vs. Charlie Edwards
-UID:4f1442b0-097f-4af5-a5cb-64a932760ab9@4f14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Lightweight
-DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Samantha Worthington vs. Vaida Masiokaite
-UID:d0b12232-c7b2-4cd6-bfb2-f6674645700d@d0b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Light Heavyweight
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250207T220000Z
-SUMMARY:Daniel Blenda Dos Santos vs. Shakan Pitters
-UID:94613456-64c5-4fe4-8ad7-1ff79086be3a@9461.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Lightweight
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250111T180000Z
-SUMMARY:Ellis Price vs. Liam Fitzmaurice
-UID:a8371544-ca63-48f2-ad43-9b18105ab305@a837.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Lightweight
-DURATION:PT3H
-LOCATION:Estadio F.A.B.\, Argentina
-DTSTART:20250222T230000Z
-SUMMARY:Jose Angel Gabriel Rosa vs. Andres Perez
-UID:ac2f9672-f7f4-44d2-a8bb-9a706e37d012@ac2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Featherweight: WBC
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T030000Z
-SUMMARY:Brandon Figueroa vs. Stephen Fulton
-UID:f81a47f0-6206-45c8-9134-b657b1c9c6cc@f81a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Middleweight: WBC
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T160000Z
-SUMMARY:Carlos Adames vs. Hamzah Sheeraz
-UID:7b47c3cb-839b-426a-9298-c77f305982ab@7b47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Featherweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Jai Williams vs. Jag Guthmann vs. Chester
-UID:ab59e258-e838-46d1-8db7-ffb237875491@ab59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welterweight
-DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Joseph Hicks vs. Keon Papillion
-UID:d16d5498-8443-43bf-b1e6-4795f2bf9f8f@d16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Lightweight: WBA Super
-DURATION:PT3H
-LOCATION:Barclays Center New York\, USA
-DTSTART:20250302T020000Z
-SUMMARY:Jose Valenzuela vs. Gary Antuanne Russell
-UID:97e6761c-2dc2-4fc0-849c-9e6ecc1cbea7@97e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T180000Z
-SUMMARY:Nelson Hysa vs. Todorche Cvetkov
-UID:819c0ea5-2378-43ff-971f-9f95ee54502b@819c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBC
-DURATION:PT3H
-LOCATION:Royal Albert Hall\, England
-DTSTART:20250307T220000Z
-SUMMARY:Caroline Dubois vs. Bo vs. Mi vs. Re Shin
-UID:90d16549-40d6-4ed4-9055-4564e07e96ec@90d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Pryce Taylor vs. Jerell Nettles
-UID:eec48a7e-a551-426c-93cd-5435affd69d1@eec4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Cruiserweight
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T180000Z
-SUMMARY:Lucas Roehrig vs. Milosav Savic
-UID:582ee667-9071-4be0-aef7-a2c24eff768e@582e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Light Flyweight: WBO
-DURATION:PT3H
-LOCATION:Kokugikan\, Japan
-DTSTART:20250313T090000Z
-SUMMARY:Shokichi Iwata vs. Rene Santiago
-UID:c641fbe5-ecf2-48f3-899e-99e5ced17b2d@c641.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Featherweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T180000Z
-SUMMARY:Jermaine Dhliwayo vs. Mark Butler
-UID:32a8d747-1c3c-491f-9abd-6dc679cc871c@32a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Bantamweight: IBF
-DURATION:PT3H
-LOCATION:Nottingham Arena\, England
-DTSTART:20250125T190000Z
-SUMMARY:Ellie Scotney vs. Mea Motu
-UID:660d22f7-8eea-48b6-8bcc-d5dcd8e3479b@660d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Cruiserweight
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250111T180000Z
-SUMMARY:Scott Forrest vs. Deevorn Miller
-UID:e5119beb-3d40-4f84-aaae-3b0cd74ab5ab@e511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250215T010000Z
-SUMMARY:Jared Anderson vs. Marios Kollias
-UID:6a73ff2b-e6d1-480e-89fa-7a4bfa08d763@6a73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welterweight
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250124T090000Z
-SUMMARY:Jin Sasaki vs. Shoky Sakai
-UID:a82525a5-fa22-464d-a8ee-5c52c1eab415@a825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Featherweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Tony Ingram vs. Runqi Zhou
-UID:c910b963-f9e6-415c-b01d-0293a0aeadd7@c910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T180000Z
-SUMMARY:Joe Cooper vs. Artjom Spatar
-UID:411d6f19-696a-4033-985d-35846714c24c@411d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: WBO
-DURATION:PT3H
-LOCATION:Fontainebleau Las Vegas\, USA
-DTSTART:20250330T020000Z
-SUMMARY:Brian Norman Jr vs. Derrieck Cuevas
-UID:570c81ff-dfa4-4717-a1ce-0185220334b0@570c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Ben Mahoney vs. Fan Zhang
-UID:99553bab-ad1b-4c18-92b8-00d5331158a8@9955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Middleweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Max McIntyre vs. Abdulselam Saman
-UID:914ea389-235d-41fe-975f-a9c02f3296d3@914e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T180000Z
-SUMMARY:Nathan Heaney vs. Sofiane Khati
-UID:33a347b8-fcbd-4e4f-a833-603f6b8e7d71@33a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Light Heavyweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T200000Z
-SUMMARY:Conner Tudsbury vs. Sadaam Da Silva
-UID:a54999b7-1b38-46ac-95ed-0c458b398e61@a549.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Light Heavyweight
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T080000Z
-SUMMARY:Billy McAllister vs. Jordan Towns
-UID:dfbf65db-c740-4e6a-8745-726079968f6d@dfbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250111T180000Z
-SUMMARY:Mauro Silva vs. Emmanuel Zion
-UID:7c1c61a6-f6eb-43dc-9d70-1505727528e3@7c1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Bantamweight
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250124T090000Z
-SUMMARY:Toshiki Shimomachi vs. Misaki Hirano
-UID:95be8d20-b9eb-4249-abc9-dc3622539331@95be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Middleweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:John Easter vs. Joseph Aguilar
-UID:220e9e4a-4e57-4e73-9ee7-fcb9a84e76b7@220e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Lightweight
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T200000Z
-SUMMARY:Adam Azim vs. Sergey Lipinets
-UID:a12cdc97-84e7-4070-bf36-f4fe518b5f1d@a12c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T180000Z
-SUMMARY:Emmany Kalombo vs. Sergio Garcia Herrera
-UID:c631a96f-b324-4eba-bc67-9555796ce350@c631.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Bantamweight: WBC
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250224T130000Z
-SUMMARY:Junto Nakatani vs. David Cuellar
-UID:6c24397e-ea08-4733-a609-dc0acc555073@6c24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Lightweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T200000Z
-SUMMARY:Jack Catterall vs. Arnold Barboza Jr.
-UID:e6ff745c-cc27-471b-97df-30348542ad96@e6ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Light Heavyweight: EBU
-DURATION:PT3H
-LOCATION:Park Community Arena\, England
-DTSTART:20250207T220000Z
-SUMMARY:Shakan Pitters vs. Lee Ingelrest
-UID:7e424deb-cf90-4098-8650-1fb7b084b66e@7e42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Featherweight: Commonwealth
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T200000Z
-SUMMARY:Masood Abdullah vs. Zak Miller
-UID:d9b2528a-4054-4435-93a1-acfcb7598bfa@d9b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T150000Z
-SUMMARY:Zhilei Zhang vs. Agit Kabayel
-UID:8d17b15a-737d-488d-b3f8-e9097fc73b02@8d17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBO
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250215T030000Z
-SUMMARY:Denys Berinchyk vs. Keyshawn Davis
-UID:a0de0b1b-5b7f-48c2-95ce-2700d679565e@a0de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welterweight
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250215T000000Z
-SUMMARY:Rohan Polanco vs. Jean Torres
-UID:4e0394e8-accc-43bb-8bd1-c75634953640@4e03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Flyweight
-DURATION:PT3H
-LOCATION:County Coliseum\, USA
-DTSTART:20250223T000000Z
-SUMMARY:D'Angelo Sanchez vs. Jesus Guzman Jr.
-UID:ca146219-4af2-437b-b661-cb6fc41c45f7@ca14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Middleweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Daniel Blancas vs. Juan Barajas
-UID:59368dd0-829e-4eb0-a440-f5c02684f4ca@5936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T180000Z
-SUMMARY:Dereck Chisora vs. Otto Wallin
-UID:f3c8e230-7ec6-4d43-bfa1-7581789254ad@f3c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBA
-DURATION:PT3H
-LOCATION:Barclays Center New York\, USA
-DTSTART:20250302T030000Z
-SUMMARY:Gervonta Davis vs. Lamont Roach
-UID:9e662f3a-3772-4542-a3ff-cc289de766e5@9e66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Featherweight
-DURATION:PT3H
-LOCATION:Nottingham Arena\, England
-DTSTART:20250125T180000Z
-SUMMARY:Ibraheem Sulaimaan vs. Facundo Arce
-UID:490e542c-2343-43dd-98b4-b6625684c7a4@490e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Cruiserweight: IBF
-DURATION:PT3H
-LOCATION:Gold Coast Convention Centre\, Australia
-DTSTART:20250108T120000Z
-SUMMARY:Jai Tapu Opetaia vs. Huseyin Cinkara
-UID:b8669eae-61c5-46e7-854d-766ddbe9a6de@b866.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T160000Z
-SUMMARY:Martin Bakole vs. Joseph Parker
-UID:426c7581-4822-4a36-953a-b987cb05b81c@426c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: EBU
-DURATION:PT3H
-LOCATION:Palacio de Deportes Jose Maria Martin Carpena\, Spain
-DTSTART:20250215T220000Z
-SUMMARY:Samuel Molina vs. Sandy Messaoud
-UID:395f9aaf-c2bb-4115-a864-fa8905cdbd2c@395f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Minimumweight
-DURATION:PT3H
-LOCATION:Ariake Arena\, Japan
-DTSTART:20250124T090000Z
-SUMMARY:Goki Kobayashi vs. Yuni Takada
-UID:15020d43-2dbd-4595-85f2-bcd8e5239ec0@1502.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: WBO
-DURATION:PT3H
-LOCATION:Fontainebleau Las Vegas\, USA
-DTSTART:20250330T020000Z
-SUMMARY:Mikaela Mayer vs. Sandy Ryan
-UID:ab7cc2bf-0e91-4667-af0a-40068086612e@ab7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250215T000000Z
-SUMMARY:Vito Mielnicki Jr. vs. Connor Coyle
-UID:020ae43f-4394-4c95-a13d-fc8f3bae4e87@020a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Lightweight: EBU
-DURATION:PT3H
-LOCATION:Nottingham Arena\, England
-DTSTART:20250125T210000Z
-SUMMARY:Dalton Smith vs. Walid Ouizza
-UID:33e45b0a-6fa5-4ed8-b67e-b67bb74453ee@33e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Light Heavyweight
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T140000Z
-SUMMARY:Joshua Buatsi vs. Callum Smith
-UID:759090de-cd0f-4965-826a-788f1fdaf236@7590.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Featherweight
-DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Mirco Cuello vs. Christian Olivo
-UID:fa153b8b-0e26-483c-a00c-ea70512d3c8e@fa15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:County Coliseum\, USA
-DTSTART:20250223T000000Z
-SUMMARY:Marcos Duran vs. Michael Shaw
-UID:ca747f4b-b66b-4c23-b59a-e7cf4de22699@ca74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Heavyweight: WBC
-DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T030000Z
-SUMMARY:Claressa Shields vs. Danielle Perkins
-UID:5d417451-1263-41b9-9cc2-1358c6e069d7@5d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Light Heavyweight: IBF\, WBC\, WBO
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T160000Z
-SUMMARY:Artur Beterbiyev vs. Dmitry Bivol
-UID:814d7b4e-2119-41c2-81d0-43c093a361e7@814d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Flyweight
-DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T010000Z
-SUMMARY:Alexander Gueche vs. Lito Dante
-UID:67e346db-291a-4e71-8d4a-e5e62d1e30b1@67e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Flyweight: WBC
-DURATION:PT3H
-LOCATION:Kokugikan\, Japan
-DTSTART:20250313T130000Z
-SUMMARY:Ken Shiro vs. Seigo Yuri Akui
-UID:c12b3a21-4b0e-46af-9f3a-535576ef5d88@c12b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250222T150000Z
-SUMMARY:Vergil Ortiz Jr. vs. Israil Madrimov
-UID:61fb9d3e-5be6-46b0-ac1b-fb0c2f7f9d14@61fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: IBF
-DURATION:PT3H
-LOCATION:Boardwalk Hall\, USA
-DTSTART:20250413T020000Z
-SUMMARY:Jaron Ennis vs. Eimantas Stanionis
-UID:f1ebd863-1dff-40bc-bc79-66ecb25d22b6@f1eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T180000Z
-SUMMARY:Walter Fury vs. Joe Hardy
-UID:233921c0-0b77-484b-b1dd-67c91663eefd@2339.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Leon Lawson III vs. Christopher Thompson
-UID:d5c1c177-a721-4db9-9d6c-411228aa7544@d5c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: Commonwealth
-DURATION:PT3H
-LOCATION:Nottingham Arena\, England
-DTSTART:20250125T210000Z
-SUMMARY:Harry Scarff vs. Conah Walker
-UID:2fecc095-c7e7-4bfd-874b-60ec6480a31a@2fec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welterweight
-DURATION:PT3H
-LOCATION:Wembley Stadium\, Great Britain
-DTSTART:20250201T180000Z
-SUMMARY:Joel Kodua vs. Lloyd Germain
-UID:2eb99cee-9d50-4054-ae46-d863b5304025@2eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Lightweight: Commonwealth
-DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250208T210000Z
-SUMMARY:Jack Rafferty vs. Reece MacMillan
-UID:f5af3e66-b162-422b-aa9a-bd66b1922d0f@f5af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBA
-DURATION:PT3H
-LOCATION:County Coliseum\, USA
-DTSTART:20250223T030000Z
-SUMMARY:Stephanie Han vs. Hannah Terlep
-UID:a023f555-b9f6-4494-9470-4ea6461bc097@a023.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: IBF\, WBC
-DURATION:PT3H
-LOCATION:Royal Albert Hall\, England
-DTSTART:20250307T220000Z
-SUMMARY:Natasha Jonas vs. Lauren Price
-UID:9bd3702c-e7f1-4f51-8fd0-b89847124f4a@9bd3.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Cruiserweight
 DURATION:PT3H
 LOCATION:Wembley Stadium\, Great Britain
 DTSTART:20250201T190000Z
 SUMMARY:Scott Forrest vs. Aurel Ignat
-UID:bf464cf4-95b1-43bb-8442-f90154ccd5bc@bf46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Welterweight
-DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20250215T000000Z
-SUMMARY:Keon Davis vs. Ira Johnson
-UID:0bfe3296-d820-4ef9-86b5-fbd60a35ddf8@0bfe.org
+UID:4c605cef-1a23-4465-9995-8fc924abcbe9@4c60.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Heavyweight
@@ -1047,103 +15,183 @@ DURATION:PT3H
 LOCATION:Dort Financial Center\, USA
 DTSTART:20250203T000000Z
 SUMMARY:Brandon Moore vs. Skylar Lacy
-UID:e3992a1f-c277-48da-8c30-83ba412de121@e399.org
+UID:0f35d80e-9f8e-4dd4-9a27-91788e0b415a@0f35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Omari Jones vs. William Jackson
+UID:839fb9e5-51e4-4d4f-9254-96f3da0850e3@839f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bantamweight
+DURATION:PT3H
+LOCATION:Qudos Bank Arena\, Australia
+DTSTART:20250322T080000Z
+SUMMARY:Cherneka Johnson vs. Nina Hughes
+UID:3cd404ca-b1d0-4b62-b625-71d6a4c5aacf@3cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T000000Z
+SUMMARY:Marco Garcia vs. Dario Soto
+UID:19e32086-9ccc-413f-a64c-4d17688a8241@19e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Dalis Kaleiopu vs. Mykell Gamble
+UID:9e2757e9-6736-4bca-a050-795358e3a8b5@9e27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:Cristian Cangelosi vs. Jarrod Tennant
+UID:785d1450-f019-4864-84bd-4ef38a04d63f@785d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T153000Z
+SUMMARY:Deniel Krotter vs. Jan Rotter
+UID:1974b266-645d-4b20-80a7-d111470b4d87@1974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Caroline Veyre vs. Carmen Vargas
+UID:71bbd128-c61c-4b02-8bbb-b87afde4a304@71bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:David Whitmire vs. Angel Munoz
+UID:ddf98485-4139-427a-8296-c671a66f6420@ddf9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Lightweight
 DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Joshua Pagan vs. Ronal Ron
-UID:bce288c2-faf6-4b01-ad63-b5c5a2cbb3c6@bce2.org
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250124T090000Z
+SUMMARY:Tsubasa Narai vs. Kai Watanabe
+UID:fdf80dc8-44ae-4ad6-b94f-89769ce68cf8@fdf8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Light Flyweight
+DESCRIPTION:Featherweight
 DURATION:PT3H
-LOCATION:Commerce Casino\, USA
-DTSTART:20250118T020000Z
-SUMMARY:Gloria Munguilla vs. Brook Sibrian
-UID:248e1f90-83dd-4699-a559-97bf73a2ef3a@248e.org
+LOCATION:Royal Albert Hall\, England
+DTSTART:20250307T200000Z
+SUMMARY:Karriss Artingstall vs. Raven Chapman
+UID:32090518-caaf-4334-a17b-8c1897ebe546@3209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: Commonwealth
+DURATION:PT3H
+LOCATION:Park Community Arena\, England
+DTSTART:20250207T220000Z
+SUMMARY:Tysie Gallagher vs. Ebonie Jones
+UID:ca239986-f6fd-4dbb-b364-bb042bbb51a7@ca23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Middleweight
+DURATION:PT3H
+LOCATION:Copper Box Arena\, USA
+DTSTART:20250517T210000Z
+SUMMARY:Kieron Conway vs. Gerome Warburton
+UID:5c94c53d-9c52-432b-adb3-9fa626410206@5c94.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Super Lightweight
 DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Isaac Cruz Gonzalez vs. Angel Fierro
-UID:6e46f097-f91e-4fb8-a39a-5a52bfae08b5@6e46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Lightweight: WBC
-DURATION:PT3H
-LOCATION:Barclays Center New York\, USA
-DTSTART:20250302T030000Z
-SUMMARY:Alberto Puello vs. Sandor Martin
-UID:7ccbad61-6ed7-42e9-a97f-b547751b5812@7ccb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Middleweight: IBF\, WBC\, WBO
-DURATION:PT3H
-LOCATION:Kingdom Arena\, Saudi Arabia
-DTSTART:20250503T160000Z
-SUMMARY:Saul Alvarez vs. William Scull
-UID:cd52ee24-32d8-498d-a142-1dd3788b6988@cd52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
 LOCATION:Gold Coast Convention Centre\, Australia
 DTSTART:20250108T080000Z
-SUMMARY:Justis Huni vs. Shaun Potgieter
-UID:2d35f5d3-b1ee-4259-bf82-2ccff64786a8@2d35.org
+SUMMARY:Taylah Gentzen vs. Shauna Browne
+UID:49783b33-b49e-49ed-92b5-25a0a7f62751@4978.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: WBC
+DESCRIPTION:Lightweight
 DURATION:PT3H
-LOCATION:Qudos Bank Arena\, Australia
-DTSTART:20250322T090000Z
-SUMMARY:Skye Nicolson vs. Tiara Brown
-UID:eb1269e9-8cf4-447d-92c2-539137754e9d@eb12.org
+LOCATION:Park Community Arena\, England
+DTSTART:20250111T180000Z
+SUMMARY:Ellis Price vs. Liam Fitzmaurice
+UID:5b9349ee-30a1-49c8-9664-e82f2728d743@5b93.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Title Bantamweight: WBA
+DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO
 DURATION:PT3H
 LOCATION:Ariake Arena\, Japan
-DTSTART:20250224T130000Z
-SUMMARY:Seiya Tsutsumi vs. Daigo Higa
-UID:d3167d97-5203-4876-86cd-bc1f7b429328@d316.org
+DTSTART:20250124T130000Z
+SUMMARY:Naoya Inoue vs. Sam Goodman
+UID:8bb652ae-1db1-4b06-96af-e31da4d87834@8bb6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Middleweight
+DESCRIPTION:Title Welterweight: WBO
 DURATION:PT3H
-LOCATION:T-Mobile Arena\, USA
-DTSTART:20250202T000000Z
-SUMMARY:Yoenli Hernandez vs. Angel Ruiz
-UID:5a7bc96e-b4d7-4481-bdd5-2dcb1f74616b@5a7b.org
+LOCATION:Fontainebleau Las Vegas\, USA
+DTSTART:20250330T020000Z
+SUMMARY:Mikaela Mayer vs. Sandy Ryan
+UID:c3a7ccda-86d5-4a13-b1d6-72624fecc838@c3a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Flyweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250420T020000Z
+SUMMARY:Gabriela Fundora vs. Marilyn Badillo
+UID:d2045e1d-ef13-4530-b39a-ff902b1383d0@d204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Flyweight
+DURATION:PT3H
+LOCATION:Poliforum Benito Juarez\, Mexico
+DTSTART:20250330T020000Z
+SUMMARY:Yokasta Valle vs. Marlen Esparza
+UID:4ffdf484-4df6-4420-b87c-92269eaa764e@4ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Atomweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T210000Z
+SUMMARY:Tina Rupprecht vs. Sumira Yamanaka
+UID:fc910a00-4b11-407f-a342-3e81bb629cb2@fc91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: EBU
+DURATION:PT3H
+LOCATION:Foiano di Val Fortore\, Italy
+DTSTART:20250509T210000Z
+SUMMARY:Vincenzo Picardi vs. Cristian Zara
+UID:462a3b7f-46d9-41d3-844b-560d48677d45@462a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Joel Iriarte vs. Marcos Jimenez
+UID:94783150-6cf1-4eae-8fe2-acd7d22fe66d@9478.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Light Heavyweight
 DURATION:PT3H
-LOCATION:Estadio F.A.B.\, Argentina
-DTSTART:20250222T230000Z
-SUMMARY:Braian Suarez vs. Walter Gabriel Sequeira
-UID:6d7b5390-baf7-40cf-bf94-4c752fd99552@6d7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Middleweight: IBF\, WBO
-DURATION:PT3H
-LOCATION:Barys Arena\, Kazakhstan
-DTSTART:20250405T160000Z
-SUMMARY:Zhanibek Alimkhanuly vs. Mpi Anauel Ngamissengue
-UID:214f3abd-0d6a-402e-a8ff-69a56d6dff35@214f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Minimumweight: IBF
-DURATION:PT3H
-LOCATION:Estadio F.A.B.\, Argentina
-DTSTART:20250405T000000Z
-SUMMARY:Sol Cudos vs. Maria Sol Baumstarh
-UID:a2174d68-c61c-4851-bb21-6554a485a143@a217.org
+LOCATION:Park Community Arena\, England
+DTSTART:20250111T180000Z
+SUMMARY:Billy Deniz vs. Mickey Ellison
+UID:0d6f363b-c5a1-4fe2-b3ab-e6354af93e40@0d6f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Title Light Heavyweight: Commonwealth
@@ -1151,71 +199,679 @@ DURATION:PT3H
 LOCATION:Bournemouth International Centre\, England
 DTSTART:20250301T220000Z
 SUMMARY:Lewis Edmondson vs. Oluwatosin Kejawa
-UID:ec42b45a-dbc8-4004-9659-cecfa26f1bae@ec42.org
+UID:aec21911-65ca-4f17-b51c-abe65aed494a@aec2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Super Featherweight
+DESCRIPTION:Super Flyweight
 DURATION:PT3H
-LOCATION:Co-op Live Arena\, England
-DTSTART:20250215T200000Z
-SUMMARY:Zelfa Barrett vs. James Dickens
-UID:e7cdf11b-a742-4ba0-a26c-577d473a68f8@e7cd.org
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T010000Z
+SUMMARY:Alexander Gueche vs. Lito Dante
+UID:441500d1-a905-4efa-9b7d-ae807013ebc0@4415.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Flyweight
+DESCRIPTION:Welterweight
 DURATION:PT3H
-LOCATION:Nottingham Arena\, England
-DTSTART:20250125T180000Z
-SUMMARY:Hamza Uddin vs. Misael Graffioli
-UID:a64fadc3-5aa6-4cdc-b33f-44ebc09ba1b6@a64f.org
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Akniet Alimbay vs. Josef Dubsky
+UID:5aa0953d-2bcc-47ab-8155-60d71e0c0f24@5aa0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Middleweight
 DURATION:PT3H
-LOCATION:Dort Financial Center\, USA
-DTSTART:20250203T000000Z
-SUMMARY:Jaquan McElroy vs. Joseph Starks
-UID:8c4ab7d6-995e-4639-9761-6df8885bbaf6@8c4a.org
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Elijah Garcia vs. Terrell Gausha
+UID:0c098b00-17bf-4c1b-90ab-be5c2b8dc250@0c09.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBC
+DESCRIPTION:Title Flyweight: WBA\, WBC
+DURATION:PT3H
+LOCATION:Kokugikan\, Japan
+DTSTART:20250313T130000Z
+SUMMARY:Ken Shiro vs. Seigo Yuri Akui
+UID:ba428ae9-7687-43d6-bfb0-6f24d474a4f2@ba42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Welterweight
+DURATION:PT3H
+LOCATION:Montreal Casino\, Canada
+DTSTART:20250411T020000Z
+SUMMARY:Mary Spencer vs. Ogleidis Suarez
+UID:f5d6449f-5236-4022-998f-be901bd1133b@f5d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Flyweight: WBC
+DURATION:PT3H
+LOCATION:Kokugikan\, Japan
+DTSTART:20250313T090000Z
+SUMMARY:Anthony Olascuaga vs. Hiroto Kyoguchi
+UID:20c9c09e-787b-4c5d-952d-e36d5a62bd19@20c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250712T020000Z
+SUMMARY:Katie Taylor vs. Amanda Serrano
+UID:5aec00e4-7a05-406e-af2c-f780fbb7b5d0@5aec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: WBC
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T030000Z
+SUMMARY:Alberto Puello vs. Sandor Martin
+UID:f42a4e08-bf68-4e4c-8a91-41100de72fc9@f42a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T180000Z
+SUMMARY:Louie O'Doherty vs. Facundo Arce
+UID:3dd01f15-53e2-4a1e-b1e0-9b0e265cbf1b@3dd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:Yoenis Tellez vs. Julian Williams
+UID:6f5f7332-f74b-4738-a52f-07ed073e4930@6f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T190000Z
+SUMMARY:Stephen Clarke vs. Dmitri Protkunas
+UID:d4152e8d-4814-4b92-9eb5-416a7e01dc57@d415.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T200000Z
+SUMMARY:Brad Strand vs. Ionut Baluta
+UID:469c7f29-7227-4ba9-955f-df80dae33fa1@469c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Flyweight: WBO
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T030000Z
+SUMMARY:Mizuki Hiruta vs. Maribel Ramirez
+UID:c0237c4b-b4dd-4303-91b7-ad9c7e1cc86d@c023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T180000Z
+SUMMARY:Walter Fury vs. Joe Hardy
+UID:5abd97ed-fc5a-46ec-ab04-98116fec0ba0@5abd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Yoenli Hernandez vs. Angel Ruiz
+UID:df76cfd1-bc38-4ae2-b919-4930b695f96a@df76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Ben Mahoney vs. Fan Zhang
+UID:a1054270-fe9f-4923-b351-ff78210f0018@a105.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250329T090000Z
+SUMMARY:Kyosuke Okamoto vs. Michael Dasmarinas
+UID:2be0c1e0-75cb-4c87-8807-5b1ff9f7b97f@2be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Teremoana Junior vs. Osasu Otobo
+UID:6cfe069a-6064-43c5-899a-5b0fcd998e3b@6cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Heavyweight: EBU
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T210000Z
+SUMMARY:Shakan Pitters vs. Daniel Blenda Dos Santos
+UID:babd1281-a47d-497e-aabc-eb8a9731c008@babd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Alberto Mora vs. Viktor Slavinskyi
+UID:009ca19c-f979-482b-8061-ac2bc4c90d94@009c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Flyweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250329T090000Z
+SUMMARY:Hayate Hanada vs. Yeroge Gura
+UID:109edb32-5e95-4143-8b62-eb56719c2bbe@109e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Stephanie Mfongwot vs. Jessica Messina
+UID:700c9dc5-9fcb-4de4-bab1-634d5ed17b0d@700c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Minimumweight: WBO
+DURATION:PT3H
+LOCATION:Glaspalast Sindelfingen\, Germany
+DTSTART:20250426T210000Z
+SUMMARY:Sarah Bormann vs. Isabel Rivero
+UID:39a1bc18-cef8-4100-98f9-90f6cc1d90d1@39a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Gabriela Tellez vs. Abril Anguiano
+UID:5219c8a5-3d2c-4154-9ade-bd3eb45fd1a3@5219.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250330T080000Z
+SUMMARY:Brandon Lee vs. Guillermo Casas
+UID:c0ceabaa-43c2-472b-8a63-15ef48911732@c0ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Tony Ingram vs. Runqi Zhou
+UID:0d4b4ca7-7586-4aca-adf2-adc95c36e8a1@0d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Middleweight: Commonwealth
 DURATION:PT3H
 LOCATION:Park Community Arena\, England
-DTSTART:20250111T210000Z
-SUMMARY:Caroline Dubois vs. Jessica Camara
-UID:68fe2fb2-61d2-414e-b15d-36d9a76e6c9c@68fe.org
+DTSTART:20250111T220000Z
+SUMMARY:Callum Simpson vs. Steed Woodall
+UID:00e24e94-df85-4a07-98fe-9400dc2faa1f@00e2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Title Light Heavyweight: WBA Super
+DESCRIPTION:Flyweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250329T090000Z
+SUMMARY:Nanthanon Thongchai vs. Rikito Irita
+UID:08582987-a75d-45f0-a426-82af2f01b9e8@0858.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Heavyweight: EBU
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T210000Z
+SUMMARY:Bradley Rea vs. Daniel Blenda Dos Santos
+UID:8f7a347f-d8eb-4f4d-a604-41ba8a4dfa7c@8f7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250215T010000Z
+SUMMARY:Jared Anderson vs. Marios Kollias
+UID:b36e5a8f-8afe-4d91-83bc-c654cdf2c36e@b36e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: Commonwealth
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250405T200000Z
+SUMMARY:Jack Rafferty vs. Cory O'Regan
+UID:5a631cb4-e23b-464c-9bb9-51aba73b0d25@5a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Justis Huni vs. Shaun Potgieter
+UID:250b7897-f717-4f84-ae27-270e1114279a@250b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T200000Z
+SUMMARY:Conner Tudsbury vs. Sadaam Da Silva
+UID:fd568812-d675-48d5-b2c5-ae18008b7a79@fd56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250330T080000Z
+SUMMARY:Mugicha Nakagawa vs. Nawaphon Kaikanha
+UID:eb1cb1a5-21bf-4f7e-b299-034d7e38d33b@eb1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20250125T200000Z
+SUMMARY:Nico Leivars vs. Lewis Morris
+UID:d194fe5f-f972-49d2-8ed8-c2882b4b631e@d194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: WBA
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250224T090000Z
+SUMMARY:Seiya Tsutsumi vs. Daigo Higa
+UID:7df40bd2-ec85-46d4-b25f-67caffda357d@7df4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T000000Z
+SUMMARY:Carlos Alanis vs. Cristian Hernan Osorio
+UID:4155c8b0-f154-46ba-b408-26ff0d65446f@4155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T010000Z
+SUMMARY:Iyana Verduzco vs. Lindsey Ellis
+UID:018fb466-db14-4fd4-8a16-09c3fa632a2a@018f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:County Coliseum\, USA
+DTSTART:20250223T000000Z
+SUMMARY:Andres Rey vs. Joshua Briones
+UID:793922bf-50fe-46d8-af9e-7cc31932e8ed@7939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Joshua Pagan vs. Ronal Ron
+UID:ff06bb7d-6f3c-4913-b9c6-7cdda4982f66@ff06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Featherweight: Commonwealth
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T200000Z
+SUMMARY:Masood Abdullah vs. Zak Miller
+UID:61493fbb-d8ca-4c2f-b1fa-cd6f9fe48d1f@6149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Middleweight: WBC
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T160000Z
+SUMMARY:Carlos Adames vs. Hamzah Sheeraz
+UID:d6197651-542a-4209-88b3-b3616d306e14@d619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Featherweight: IBF
+DURATION:PT3H
+LOCATION:Yokohama Buntai\, Japan
+DTSTART:20250528T120000Z
+SUMMARY:Eduardo Nunez vs. Masanori Rikiishi
+UID:9d1f981c-9ca1-4875-b3d8-d71092be761e@9d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250222T230000Z
+SUMMARY:Braian Suarez vs. Walter Gabriel Sequeira
+UID:eef12111-db4a-4793-a748-5d4d9879c131@eef1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Kokugikan\, Japan
+DTSTART:20250313T090000Z
+SUMMARY:Junya Nemoto vs. Naoki Matsumura
+UID:ea432187-0fea-43ed-b4d7-5377d44484f8@ea43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Fontainebleau Las Vegas\, USA
+DTSTART:20250330T000000Z
+SUMMARY:Dedrick Crocklem vs. Dionne Ruvalcaba
+UID:52b0cc05-c7ee-4e6b-8ca2-62844ae7ff68@52b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250330T080000Z
+SUMMARY:Yesibolati Nasiyiwula vs. John Paul Masamba
+UID:b9b40d77-c7f3-45b9-a5ab-c6dc1ff5a184@b9b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Featherweight: WBC
 DURATION:PT3H
 LOCATION:T-Mobile Arena\, USA
 DTSTART:20250202T030000Z
-SUMMARY:David Morrell vs. David Benavidez
-UID:ab14c673-1b52-495a-8850-7c82e31c9a70@ab14.org
+SUMMARY:Brandon Figueroa vs. Stephen Fulton
+UID:3cdfaccb-48b6-4acf-bbee-5ad17a3e2d54@3cdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: WBO
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250124T130000Z
+SUMMARY:Yoshiki Takei vs. Yuttapong Tongdee
+UID:31c7be68-2236-4101-adc9-8b05b4bea86d@31c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T000000Z
+SUMMARY:Agustin Marini vs. Hugo David Quiroz
+UID:90b89369-fb2f-4422-a545-90770c3758b9@90b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bantamweight
+DURATION:PT3H
+LOCATION:Fontainebleau Las Vegas\, USA
+DTSTART:20250330T000000Z
+SUMMARY:Emmanuel Chance vs. Miguel Guzman
+UID:697b1b44-87db-4fdc-8762-cd7ff65d5988@697b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250124T090000Z
+SUMMARY:Jin Sasaki vs. Shoky Sakai
+UID:4e3f7dd9-1f35-446a-90fb-52fb6bd8229f@4e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T200000Z
+SUMMARY:Alfie Middlemiss vs. Caine Singh
+UID:e4b00fee-fb5c-4733-9991-252f07d30702@e4b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Minimumweight: WBC
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250330T120000Z
+SUMMARY:Melvin Jerusalem vs. Yudai Shigeoka
+UID:f12a81d8-2df4-4d92-bbd5-7d630120fe01@f12a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBA
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T030000Z
+SUMMARY:Gervonta Davis vs. Lamont Roach
+UID:5814d2dd-5268-4d91-a0a7-4ae1aea9f96d@5814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Featherweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250505T020000Z
+SUMMARY:Rafael Espinoza vs. Edward Vazquez
+UID:2d155098-288c-48dc-8044-3a371030e70c@2d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Poliforum Benito Juarez\, Mexico
+DTSTART:20250330T020000Z
+SUMMARY:Gregory Morales vs. Jonathan Rojas
+UID:5eac7243-e213-4b58-a17c-ba4b8b6684f5@5eac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Welterweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250712T020000Z
+SUMMARY:Alycia Baumgardner vs. Jennifer Miranda
+UID:7ddde610-7e8c-4d8b-ace2-605083036bed@7ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Daniel Blancas vs. Juan Barajas
+UID:fd9bd185-e2bf-4fab-885f-9c0b0dc0c0cc@fd9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: IBF\, WBC
+DURATION:PT3H
+LOCATION:Royal Albert Hall\, England
+DTSTART:20250307T220000Z
+SUMMARY:Natasha Jonas vs. Lauren Price
+UID:4afc797d-f46f-42b2-9405-fe45f0aeb27a@4afc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Jesus Alejandro Ramos vs. Guido Schramm
+UID:acf49951-a15c-4674-937a-a624409eec57@acf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:County Coliseum\, USA
+DTSTART:20250223T000000Z
+SUMMARY:Victor Aranda vs. Eduardo Monrreal
+UID:c54b483f-c94f-4da0-9361-524d57aee526@c54b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bantamweight
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T000000Z
+SUMMARY:Ludmila Estefania vs. Victoria Romero
+UID:12f73cb1-f409-439c-b3c6-894e6cdd78bb@12f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T190000Z
+SUMMARY:Lillie Winch vs. Valgerdur Gudstensdottir
+UID:e0a341b2-e503-43c3-8140-827638ad0cf5@e0a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Featherweight
 DURATION:PT3H
 LOCATION:Commerce Casino\, USA
-DTSTART:20250118T010000Z
-SUMMARY:Nicolas Robledo vs. Jonathan Almacen
-UID:9a4ff725-5fde-45c7-90ba-786f8d164f70@9a4f.org
+DTSTART:20250118T030000Z
+SUMMARY:Omar Trinidad vs. Mike Plania
+UID:390c7839-ff42-4940-b963-f5b983481a25@390c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Super Flyweight
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250330T080000Z
+SUMMARY:Ryusei Miyakawa vs. Nattawut Maneewong
+UID:63431456-7c75-4a24-929b-0a6b760b94f9@6343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T010000Z
+SUMMARY:Adan Palma vs. Sharone Carter
+UID:7a153a2d-4d62-43cd-ac2b-47b44f33760b@7a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
 DURATION:PT3H
 LOCATION:Madison Square Garden\, USA
 DTSTART:20250215T000000Z
-SUMMARY:Juanma Lopez vs. Bryan Santiago
-UID:530f6253-2214-4cad-ad2a-659793068b83@530f.org
+SUMMARY:Vito Mielnicki Jr. vs. Connor Coyle
+UID:5a253678-baa6-46c9-b3ef-eb6adc452b2e@5a25.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Super Middleweight
+DESCRIPTION:Title Flyweight: IBF
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250329T130000Z
+SUMMARY:Angel Ayala vs. Masamichi Yabuki
+UID:417605d7-7811-4511-9995-9826b8ed4a1a@4176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T180000Z
+SUMMARY:Hassan Azim vs. Jensen Irving
+UID:2755caca-5e4e-43c4-a7f1-93067b661677@2755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T180000Z
+SUMMARY:Joel Kodua vs. Lloyd Germain
+UID:aba13ad1-240b-401b-b18a-fe0209e69a00@aba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Flyweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250329T090000Z
+SUMMARY:Giemel Magramo vs. Aoi Yokoyama
+UID:c642bbe6-8d9f-4c35-85a0-23e97980a40d@c642.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Arturo Popoca vs. Edgar Joe Cortes
+UID:3a62bc05-3cbc-4d06-9766-ee8bdaf6ed10@3a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Pryce Taylor vs. Jerell Nettles
+UID:90e23844-680c-4e09-9c6f-770dde8ee5eb@90e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T170000Z
+SUMMARY:William Birchall vs. Engel Gomez
+UID:47bcff4a-ab67-4a37-b60b-2c31f2368277@47bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
 DURATION:PT3H
 LOCATION:Estadio F.A.B.\, Argentina
 DTSTART:20250222T230000Z
-SUMMARY:Kevin Gomez vs. Carlos Ivan Diaz
-UID:4e5b8772-3910-40a0-abc8-995286271a3d@4e5b.org
+SUMMARY:Jose Angel Gabriel Rosa vs. Andres Perez
+UID:996403f4-10ea-4b1e-84d9-1795452d1a9c@9964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250712T020000Z
+SUMMARY:Ellie Scotney vs. Yamileth Mercado
+UID:7abc14a9-4089-4a06-a88a-1bfd7c308b5d@7abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250222T230000Z
+SUMMARY:Alex Alfonso vs. Cesar Toloza
+UID:f36b460c-46c3-4ed0-90d6-5ac84d119d7e@f36b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Curmel Moton vs. Frank Zaldivar
+UID:60259bf0-8eb0-4e70-80de-cae3bfb541d5@6025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T200000Z
+SUMMARY:Karol Itauma vs. Michal Ludwiczak
+UID:4ede2a7a-6ec4-484d-b011-f37e216c6100@4ede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Cruiserweight: WBC
+DURATION:PT3H
+LOCATION:The Venue Riyadh Season\, Saudi Arabia
+DTSTART:20250504T020000Z
+SUMMARY:Badou Jack vs. Ryan Rozicki
+UID:2244b475-82a0-421c-b360-d69b34130a89@2244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Kaipo Gallegos vs. Leonardo Padilla
+UID:1f07e2e6-324f-4b58-814e-20602cf10c2a@1f07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Minimumweight: WBA\, WBO
+DURATION:PT3H
+LOCATION:Poliforum Benito Juarez\, Mexico
+DTSTART:20250330T020000Z
+SUMMARY:Oscar Collazo vs. Edwin Cano
+UID:310df5e2-e1f0-4c08-b75e-303d1de6d870@310d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Bakhodir Jalolov vs. Igor Shevadzutskiy
+UID:c2eeaad2-0736-4061-b59f-df662585389b@c2ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Super Welterweight
@@ -1223,7 +879,1013 @@ DURATION:PT3H
 LOCATION:Wembley Stadium\, Great Britain
 DTSTART:20250201T180000Z
 SUMMARY:Garan Croft vs. Dmitri Protkunas
-UID:6e82d1cb-6541-4467-8e1b-ff9e8fd0006e@6e82.org
+UID:caf1246b-107c-43f7-abfb-129e11912c40@caf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Featherweight: WBA
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T220000Z
+SUMMARY:Nick Ball vs. TJ Doheny
+UID:cf93044d-6b5d-4e2f-998c-6c8cf7a6fa91@cf93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Sabyrkhan Torekhan vs. Jiri Hauke
+UID:58627719-dc3c-4a75-a65c-39cb967cbd45@5862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Francisco Rodriguez vs. Naheem Parker
+UID:e463aa9a-8a2a-447c-9792-8a0fcd2110cc@e463.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: Commonwealth
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T193000Z
+SUMMARY:Constantin Ursu vs. Eithan James
+UID:91facb87-f3df-495f-b893-107e043f48ac@91fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250330T080000Z
+SUMMARY:Kensuke Suzuki vs. Ruku Sasaki
+UID:d01a7bad-ae7c-4058-a35f-6b205a5dc075@d01a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T150000Z
+SUMMARY:Zhilei Zhang vs. Agit Kabayel
+UID:04b4a53f-c2c7-45bd-bd5e-8f334fbf8527@04b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250405T230000Z
+SUMMARY:Edilberto Fernandez vs. Braian Damian Gomez
+UID:17b8fafa-1bb9-4962-a902-46f4567ef096@17b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBO
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250215T030000Z
+SUMMARY:Denys Berinchyk vs. Keyshawn Davis
+UID:b05092b2-f62d-49b6-94f5-0153888971af@b050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Jursly Vargas vs. Uhlices Avelino vs. Reyes
+UID:3588e166-e19b-446d-8569-e1f04c1c328b@3588.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Poliforum Benito Juarez\, Mexico
+DTSTART:20250330T030000Z
+SUMMARY:William Zepeda vs. Tevin Farmer
+UID:25ceb58d-faf9-4fd0-85a8-984f371be459@25ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T163000Z
+SUMMARY:Amansio Paraschiv vs. Elliot Eboigbe
+UID:e2991158-e249-4563-ae82-22d2770c32f0@e299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Billy McAllister vs. Jordan Towns
+UID:f8dca2f3-7fe6-4e1f-8565-f7131cd22e26@f8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: WBC
+DURATION:PT3H
+LOCATION:Qudos Bank Arena\, Australia
+DTSTART:20250322T090000Z
+SUMMARY:Skye Nicolson vs. Tiara Brown
+UID:1aa08097-f710-4cb0-811b-887b8fbb154a@1aa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Alexis De la Cerda vs. Sharone Carter
+UID:e6c380f8-6a05-46fb-b159-eeb56d3a3d2d@e6c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T170000Z
+SUMMARY:Lewis Lawton vs. Artjom Spatar
+UID:7632df05-e990-4243-8e95-53c3654b91c9@7632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: WBA Super
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T020000Z
+SUMMARY:Jose Valenzuela vs. Gary Antuanne Russell
+UID:0a2a1deb-7f23-46b8-891b-ce47a1d9b4f8@0a2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T140000Z
+SUMMARY:Mohammed Alakel vs. Engel Gomez
+UID:0bf44777-c867-4298-8f28-bceb507477a7@0bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250525T210000Z
+SUMMARY:Constantin Ursu vs. Ryan Amos
+UID:f315ea53-0b3f-4623-b629-49bc216b5cc9@f315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T200000Z
+SUMMARY:Mace Ruegg vs. Liam Dillon
+UID:c285101c-8503-4d8c-a258-619583017482@c285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Middleweight: IBF
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Desley Robinson vs. Chloe Chaos
+UID:4b428799-157c-4d5d-b133-7cbb6268c932@4b42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Jai Williams vs. Jag Guthmann vs. Chester
+UID:6d75e2fd-1532-48ea-88ff-b4d560722f37@6d75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Flyweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T173000Z
+SUMMARY:Laura Pain vs. Nicholine Achieng
+UID:7b17c802-5efa-482b-90ec-93819f62be31@7b17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Makhmud Sabyrkhan vs. Duc Dung Huynh
+UID:bcdc052c-4a76-4600-ae32-5d3f4c82b0eb@bcdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: WBA Super
+DURATION:PT3H
+DTSTART:20250505T020000Z
+SUMMARY:Naoya Inoue vs. Ramon Alvarez
+UID:3abf27ca-19c1-427c-8e5d-bbfe8237f02e@3abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:Jonathan Geovanni Lopez vs. Alexander Espinoza Rivera
+UID:f8cf5e68-381b-4b1d-95b3-26a9c5aa3134@f8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Tommy Hyde vs. Anuary Mlawa
+UID:0774eefe-efbb-48c1-bf31-c6f94f684b30@0774.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Fontainebleau Las Vegas\, USA
+DTSTART:20250330T000000Z
+SUMMARY:Bruce Carrington vs. Jose Enrique Durantes Vivas
+UID:d5835d6f-9b0b-4a45-a6c0-cbf8bf0a9a76@d583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bantamweight
+DURATION:PT3H
+LOCATION:Kokugikan\, Japan
+DTSTART:20250313T090000Z
+SUMMARY:Tomoya Tsuboi vs. Boonrueang Phayom
+UID:6b1e5863-3be6-40d0-9db7-91446d1bc973@6b1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T182000Z
+SUMMARY:Joseph Butler vs. Alexander Morales
+UID:fe1603f3-537b-491c-a84f-16d43a119a7a@fe16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T190000Z
+SUMMARY:Ross Driscoll vs. Paris Stavropoulos
+UID:108dab6c-a7bf-490c-9852-92bb704a2ef5@108d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250124T090000Z
+SUMMARY:Toshiki Shimomachi vs. Misaki Hirano
+UID:f2a44f7e-4962-4977-b118-835c93f10113@f2a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Featherweight: Commonwealth
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T210000Z
+SUMMARY:Reece Bellotti vs. Michael Gomez Jr.
+UID:3dbe830c-93ba-41cf-a507-1c231dc5ea60@3dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Flyweight: WBO
+DURATION:PT3H
+LOCATION:Kokugikan\, Japan
+DTSTART:20250313T090000Z
+SUMMARY:Shokichi Iwata vs. Rene Santiago
+UID:45a39ccd-8e6f-4a12-a516-5db683734237@45a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Heavyweight
+DURATION:PT3H
+DTSTART:20250523T210000Z
+SUMMARY:Labinot Xhoxhaj vs. Mourad Aliev
+UID:210755d6-ad16-4bda-95ce-336c5c971f53@2107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250224T080000Z
+SUMMARY:Ryosuke Kiuchi vs. Fuentes Kitajima
+UID:63c8a23f-e61f-4ee0-b0af-36ae8ba6c62e@63c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Minimumweight
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250124T090000Z
+SUMMARY:Goki Kobayashi vs. Yuni Takada
+UID:d35630ab-a5e1-4760-b19b-caa702e1b0d1@d356.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: Commonwealth
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20250125T210000Z
+SUMMARY:Harry Scarff vs. Conah Walker
+UID:ba9ca082-2136-4b3f-951f-c02cb809cf1d@ba9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250405T230000Z
+SUMMARY:Abraham Isaac Vargas vs. Walter Luis Flores
+UID:647ce8e9-5bd9-423e-97d8-1b7d4c7de85c@647c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Robert Guerrero vs. Sean Armas
+UID:fdd96d2c-ee94-43da-b6e4-e6062aeb03b6@fdd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Otabek Kholmatov vs. Jason Canoy
+UID:e94ec9d6-e31a-4348-943c-f5da5dc7df54@e94e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Heavyweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T160000Z
+SUMMARY:Artur Beterbiyev vs. Dmitry Bivol
+UID:13b2916b-b7d4-4205-a220-87d9ba5a13a2@13b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Royal Albert Hall\, England
+DTSTART:20250307T190000Z
+SUMMARY:Francesca Hennessy vs. Carla Camila Campos
+UID:47f3f71c-19d3-409b-be6e-739e5d86e00f@47f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250124T100000Z
+SUMMARY:Naoya Inoue vs. Ye vs. Joon Kim
+UID:9e5f8789-566a-45e8-9727-9866a523f15a@9e5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Heavyweight: WBA Super
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T030000Z
+SUMMARY:David Morrell vs. David Benavidez
+UID:03598fc8-d5c6-4d69-932b-d74244afbb8f@0359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Minimumweight: WBA
+DURATION:PT3H
+LOCATION:Korakuen Hall\, Japan
+DTSTART:20250121T120000Z
+SUMMARY:Yuko Kuroki vs. Ye vs. Kyeng Seo
+UID:7512e3f2-5209-4c63-8267-270bcf1c9313@7512.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T010000Z
+SUMMARY:Nicolas Robledo vs. Jonathan Almacen
+UID:7f5c6adf-a674-4876-8af7-42e76e5f769a@7f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Qudos Bank Arena\, Australia
+DTSTART:20250322T080000Z
+SUMMARY:Hemi Ahio vs. Aekkaphob Auraiwan
+UID:dd42b23c-16bf-4efd-b448-e359e45ed670@dd42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Batyrzhan Jukembayev vs. Kane Gardner
+UID:fbbaa516-3d86-4bb2-92ba-785262127549@fbba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Leon Lawson III vs. Christopher Thompson
+UID:4de6a443-e4d7-422d-8a3e-19ec6fe22d7e@4de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: Commonwealth
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T210000Z
+SUMMARY:Jack Rafferty vs. Reece MacMillan
+UID:d2ad56d3-9dc8-4b94-a84e-c98a61a2712a@d2ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T200000Z
+SUMMARY:Joe Joyce vs. Patrick Korte
+UID:089a4229-b3cb-4927-add1-7920cac639f7@089a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Park Community Arena\, England
+DTSTART:20250111T180000Z
+SUMMARY:Mauro Silva vs. Emmanuel Zion
+UID:d703605e-b659-41ef-886b-1d0df3818644@d703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Julian Vogel vs. Milos Beranek
+UID:0afa95fc-90cc-4335-a6e3-78b6eea71f0b@0afa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Middleweight: IBF\, WBC\, WBO\, WBA Super
+DURATION:PT3H
+LOCATION:The Venue Riyadh Season\, Saudi Arabia
+DTSTART:20250503T160000Z
+SUMMARY:Saul Alvarez vs. William Scull
+UID:8c2cf3ef-0aba-4fa2-81f7-3727a00ea56a@8c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Mirco Cuello vs. Christian Olivo
+UID:c944070d-444a-4b12-8b38-45369370ff03@c944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Cruiserweight: WBC
+DURATION:PT3H
+LOCATION:The Venue Riyadh Season\, Saudi Arabia
+DTSTART:20250503T150000Z
+SUMMARY:Badou Jack vs. Noel Mikaelyan
+UID:fe70b766-03fd-4513-81ab-083a8c7f700a@fe70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250222T230000Z
+SUMMARY:Kevin Gomez vs. Carlos Ivan Diaz
+UID:6b8e8134-7c60-4d3b-acfe-c45a14693f6c@6b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: WBA\, IBF
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250413T020000Z
+SUMMARY:Jaron Ennis vs. Eimantas Stanionis
+UID:50f50906-96b6-4559-a0c9-dac25cb5bf0e@50f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Flyweight
+DURATION:PT3H
+LOCATION:Royal Albert Hall\, England
+DTSTART:20250307T200000Z
+SUMMARY:Chloe Watson vs. Jasmina Zapotoczna
+UID:58c6b673-5e44-47c2-bf5f-27a82202a6d6@58c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:Park Community Arena\, England
+DTSTART:20250111T180000Z
+SUMMARY:Scott Forrest vs. Deevorn Miller
+UID:2ed3f0a2-89f6-4291-b79c-e900c78065a7@2ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Minimumweight: IBF
+DURATION:PT3H
+LOCATION:Intex Osaka\, Japan
+DTSTART:20250524T120000Z
+SUMMARY:Pedro Taduran vs. Ginjiro Shigeoka
+UID:9945a002-46ee-4a86-9213-23c684320045@9945.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: WBO
+DURATION:PT3H
+LOCATION:Fontainebleau Las Vegas\, USA
+DTSTART:20250330T020000Z
+SUMMARY:Brian Norman Jr vs. Derrieck Cuevas
+UID:cc507640-0787-4a33-8336-c9d0b79dde85@cc50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Nick Hannig vs. Mateusz Tryc
+UID:3a8ca7e3-e1fd-45fa-9c9f-0856d548f984@3a8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Featherweight: IBF
+DURATION:PT3H
+LOCATION:Stadthalle Falkansee\, Germany
+DTSTART:20250510T210000Z
+SUMMARY:Nina Meinke vs. Daniela Romina Bermudez
+UID:08f7500d-a7da-4991-bc1d-e75d296807f6@08f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Max McIntyre vs. Abdulselam Saman
+UID:b80c2e01-df9b-4cf6-957a-b1244be0d077@b80c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T200000Z
+SUMMARY:Luke McCormack vs. Ramiro Garcia Lopez
+UID:1df10c16-33de-480d-aa0c-66f5a8805b0e@1df1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T200000Z
+SUMMARY:John Isaacs vs. Ezequiel Gregores
+UID:5128c4eb-cffd-48a5-ac61-21afc321b1e4@5128.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Tristan Kalkreuth vs. Felix Valera
+UID:db1caa62-2405-4362-a9ca-44409aa39418@db1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250222T230000Z
+SUMMARY:Micaela Dominguez vs. Lorena Agoutborde
+UID:1db0003a-1e02-46e0-b1e5-c31357feeb9f@1db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: Commonwealth
+DURATION:PT3H
+LOCATION:Keepmoat Stadium\, England
+DTSTART:20250523T210000Z
+SUMMARY:Tysie Gallagher vs. Ebonie Jones
+UID:98ae5204-d59b-4001-894e-8627fe4b3b13@98ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250215T000000Z
+SUMMARY:Keon Davis vs. Ira Johnson
+UID:87233352-be48-4aa6-900b-b4af42708bde@8723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Flyweight
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20250125T180000Z
+SUMMARY:Hamza Uddin vs. Misael Graffioli
+UID:2495779a-e936-4b0b-810f-afa913960ce9@2495.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Makhmud Sabyrkhan vs. Nicolas Tordecilla
+UID:5daca6ff-1639-478b-b7c9-b8b30816fab3@5dac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250224T080000Z
+SUMMARY:Eigoro Akai vs. Ryuya Moriai
+UID:5d4111ce-a99d-4266-b08b-266dbd105ee9@5d41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Heavyweight: WBC
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T030000Z
+SUMMARY:Claressa Shields vs. Danielle Perkins
+UID:cee422bb-ce44-416f-88a8-f7b723218512@cee4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: EBU
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20250125T210000Z
+SUMMARY:Dalton Smith vs. Walid Ouizza
+UID:8449b4e0-813b-4526-b0f6-b0dca3638a37@8449.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Welterweight: WBC\, WBO
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Sebastian Fundora vs. Chordale Booker
+UID:0c446260-8ca4-4061-83e5-c051104c8d5d@0c44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Alisher Abdulalim vs. Ashish Chaudhary
+UID:8dea3e44-385c-4290-a905-ea5ce5e109c3@8dea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bantamweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250329T090000Z
+SUMMARY:Ayumu Sano vs. Nattapong Jankaew
+UID:77abf174-1163-4b76-8897-a10dd01d5aa6@77ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Arturo Popoca vs. Christian Carto
+UID:6ceb2857-944f-4ab9-a74e-23def56e06fb@6ceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Middleweight: IBF\, WBO
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T160000Z
+SUMMARY:Zhanibek Alimkhanuly vs. Mpi Anauel Ngamissengue
+UID:1b606da6-149c-41d7-9de0-6143492a7f9a@1b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Featherweight: IBF
+DURATION:PT3H
+LOCATION:Intex Osaka\, Japan
+DTSTART:20250524T120000Z
+SUMMARY:Angelo Leo vs. Tomoki Kameda
+UID:38d5671c-4de0-42bc-82a3-3b8b7f251f74@38d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Poliforum Benito Juarez\, Mexico
+DTSTART:20250330T020000Z
+SUMMARY:Cayden Griffiths vs. Fernando Ruiz
+UID:15c9148d-6864-4c92-97d2-9c20c31e0997@15c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Jesse Bolt vs. Bashir Nassir
+UID:341dd8cd-29b7-481f-88ff-d1213e20f891@341d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T190000Z
+SUMMARY:Hughie Fury vs. Dan Garber
+UID:f4777a96-7276-423c-894c-f2836d3b4609@f477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bantamweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250330T080000Z
+SUMMARY:Towa Tsuji vs. Shori Umezu
+UID:80cc23be-5b8a-4696-9809-a075fcab4857@80cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T180000Z
+SUMMARY:Nathan Heaney vs. Sofiane Khati
+UID:10a987a2-6b40-4bde-99ae-724bafcb2b00@10a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Flyweight
+DURATION:PT3H
+LOCATION:County Coliseum\, USA
+DTSTART:20250223T000000Z
+SUMMARY:D'Angelo Sanchez vs. Jesus Guzman Jr.
+UID:bea34ee5-579c-461b-a018-5a69e873dbfc@bea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Flyweight: WBA Super
+DURATION:PT3H
+LOCATION:Orange Show Events Center\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Jasmine Artiga vs. Regina Chavez
+UID:d3aa96bc-301d-4da9-81bb-2559fd4127ce@d3aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T200000Z
+SUMMARY:Jack Power vs. Jose Aguirre
+UID:36df6128-4416-4076-9769-9147228d57c8@36df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Flyweight: IBF\, WBO
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T030000Z
+SUMMARY:Evelyn Nazarena Bermudez vs. Tenkai Tsunami
+UID:410dde90-e724-4185-be54-acd71ca63a32@410d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:Dwyke Flemmings Jr. vs. Florent Dervis
+UID:45492373-b376-4546-84ff-a1e244f9a06a@4549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250215T000000Z
+SUMMARY:Abdullah Mason vs. Manuel Jaimes
+UID:1344e62c-a223-4f3c-abf9-3f31368c9216@1344.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Ashleyann Lozada vs. Denise Moran
+UID:26301e14-a28a-44dd-b4b6-3ebac4efbc37@2630.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Josh Nesbitt vs. Sebastian Wells
+UID:1b8547ad-5f8f-418d-9db8-a86914d6d93e@1b85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:County Coliseum\, USA
+DTSTART:20250223T000000Z
+SUMMARY:Devon Young vs. Sergio Uribe
+UID:34ad2e14-a429-490a-b965-f2b1917421a7@34ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Tahmir Smalls vs. Earl Bascome
+UID:217383b0-74aa-484f-b721-cee95c179dd6@2173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Joshua Edwards vs. Larry Gonzales
+UID:a857d7b3-7ec3-4724-83bf-240ea38c1e2e@a857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Charles Conwell vs. Jorge Garcia
+UID:d0f38bba-bf24-4a23-a4cd-f2ed529388c3@d0f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T190000Z
+SUMMARY:Ben Crocker vs. Tiernan Bradley
+UID:b7077840-fc31-46e2-80ce-9de9451df4bb@b707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: EBU
+DURATION:PT3H
+LOCATION:Palacio de Deportes Jose Maria Martin Carpena\, Spain
+DTSTART:20250215T220000Z
+SUMMARY:Samuel Molina vs. Sandy Messaoud
+UID:d3c700b3-6d7e-401d-94c8-acf8c2a4f50e@d3c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T154500Z
+SUMMARY:Zachary Phee vs. Darwing Martinez
+UID:dc57f682-a76b-46df-a2ab-1e1fa88e7f36@dc57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T170000Z
+SUMMARY:Joe Bourne vs. Cristian Uwaka
+UID:fcc48419-af1f-456b-a819-6d1739039f86@fcc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Sultan Zaurbek vs. Azinga Fuzile
+UID:59ced1dc-8aaa-42e8-b321-a8195bdcd47c@59ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Brayan Gonzalez vs. Justin Marquez
+UID:14da9fa2-634e-4ac2-9dbf-525d6429cf17@14da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T200000Z
+SUMMARY:William Crolla vs. Ayoub Zakari
+UID:8db5e5b8-a683-43f1-a096-c81682f1cc8f@8db5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Fontainebleau Las Vegas\, USA
+DTSTART:20250330T000000Z
+SUMMARY:Emiliano Vargas vs. Giovannie Gonzalez
+UID:3cd09bfc-96be-4f95-b252-fdd86f7f4afb@3cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250215T020000Z
+SUMMARY:Xander Zayas vs. Slawa Spomer
+UID:5010c618-51c0-40cc-8ec9-8e5c7f798c4a@5010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Heavyweight: EBU
+DURATION:PT3H
+LOCATION:Park Community Arena\, England
+DTSTART:20250207T220000Z
+SUMMARY:Shakan Pitters vs. Lee Ingelrest
+UID:b84ca499-8dd1-492c-a499-4ce707a48095@b84c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Featherweight
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250224T080000Z
+SUMMARY:Hayato Aiko vs. Yuki Sato
+UID:f2db991e-ddb5-4cc0-98bc-4f74afedfba1@f2db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:County Coliseum\, USA
+DTSTART:20250223T000000Z
+SUMMARY:Marcos Duran vs. Michael Shaw
+UID:644661e0-b605-4727-ac1a-c68de488aedd@6446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T180000Z
+SUMMARY:Jermaine Dhliwayo vs. Mark Butler
+UID:f6e14ec0-9abd-48d3-aa77-1f57ae084ff8@f6e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: WBC
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250224T100000Z
+SUMMARY:Junto Nakatani vs. David Cuellar
+UID:630d800e-ab24-44c5-8af4-6456a7eddde4@630d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T180000Z
+SUMMARY:Dereck Chisora vs. Otto Wallin
+UID:ccc4013b-3926-43a3-87b0-4398d8d5d849@ccc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Max Suske vs. Karen Gevorgyan
+UID:805f4601-c993-4f6f-b78a-ee2466558a4d@805f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T010000Z
+SUMMARY:Joshua Anton vs. Cameron Krael
+UID:c61748e0-f31f-4365-8bd8-df59a4882987@c617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Middleweight: WBO
+DURATION:PT3H
+LOCATION:Times Square\, USA
+DTSTART:20250503T020000Z
+SUMMARY:Teofimo Lopez vs. Arnold Barboza Jr.
+UID:e5712f6e-e57c-48ab-bdc9-59da3e9fa34d@e571.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: WBO
+DURATION:PT3H
+LOCATION:Yokohama Buntai\, Japan
+DTSTART:20250528T120000Z
+SUMMARY:Yoshiki Takei vs. Yuttapong Tongdee
+UID:0b4c547f-d1fe-4295-a52d-cb1cf686161c@0b4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Minimumweight: IBF
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250406T000000Z
+SUMMARY:Sol Cudos vs. Maria Sol Baumstarh
+UID:b63858bc-3ce2-40a2-89e9-fa283f4f8d99@b638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Flyweight
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T180000Z
+SUMMARY:Alfie Clegg vs. Sebastian Alejandro
+UID:ed3bfe52-86c6-4f60-99e2-9d8459499056@ed3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T180000Z
+SUMMARY:Kieran Molloy vs. Riccardo Crepaldi
+UID:159e3e7a-9404-435b-832b-1b830339dc4f@159e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Qudos Bank Arena\, Australia
+DTSTART:20250322T080000Z
+SUMMARY:George Kambosos Jr. vs. Jake Wyllie
+UID:137b682d-61f9-4321-be3c-c1f28a165eea@137b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T200000Z
+SUMMARY:Jack Catterall vs. Arnold Barboza Jr.
+UID:c8518c68-7ddd-487c-a909-f23c31238db0@c851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Samuel Torres vs. Marc Misiura
+UID:7b037101-5a36-471a-bf81-a1f827ba25d4@7b03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Middleweight: EBU
+DURATION:PT3H
+LOCATION:Oakwell Football Ground\, England
+DTSTART:20250607T210000Z
+SUMMARY:Callum Simpson vs. Ivan Zucco
+UID:352c5a6b-3c8c-4bbf-b331-5e404e03af47@352c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Michel Dobler vs. Emil Zgyuga
+UID:16b4ee4a-c417-4d65-b770-c6ad11744189@16b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Super Lightweight
@@ -1231,6 +1893,806 @@ DURATION:PT3H
 LOCATION:County Coliseum\, USA
 DTSTART:20250223T000000Z
 SUMMARY:Muhammad Robinson vs. Jorge Fleites
-UID:9fac0cab-7fa5-4d2e-9df2-13cc963ca560@9fac.org
+UID:7043e07a-6648-4b4a-95fd-d5450a50271d@7043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO\, WBA Super
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250505T020000Z
+SUMMARY:Naoya Inoue vs. Ramon Cardenas
+UID:3e90a3f4-e205-4069-9a49-ccb53d87d3c4@3e90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20250125T180000Z
+SUMMARY:Traie Duberry vs. Camilo Castagno
+UID:8e482acf-f87a-4c04-bfbc-6c42c5d16fef@8e48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T180000Z
+SUMMARY:Kevin Reavell vs. Grant Dennis
+UID:ad6824df-f276-4eeb-938e-14a25726eadc@ad68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T180000Z
+SUMMARY:Joe Cooper vs. Artjom Spatar
+UID:27d319b4-840a-460f-bbc4-9677bc040426@27d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250405T230000Z
+SUMMARY:Maira Moneo vs. Florencia Zalazar
+UID:1b2ac9be-8f6e-491a-8ef0-3798c389519c@1b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBC
+DURATION:PT3H
+LOCATION:Park Community Arena\, England
+DTSTART:20250111T210000Z
+SUMMARY:Caroline Dubois vs. Jessica Camara
+UID:5be3390d-d0a4-4baf-9b90-09da473220b5@5be3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Qudos Bank Arena\, Australia
+DTSTART:20250322T080000Z
+SUMMARY:Jayden Buan vs. Jordan Kasilieris
+UID:711416e0-892d-4e3b-8e01-8a84848e0cb2@7114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T000000Z
+SUMMARY:Joaquin Diaz vs. Alexis Camejo
+UID:4ccb95b6-697d-4b7e-ad95-fe2d4e02f8b9@4ccb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:John Easter vs. Joseph Aguilar
+UID:3a035496-40b4-493c-b0fa-31fc86bd3c2b@3a03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Raymond Ford vs. Thomas Mattice
+UID:2651ad54-5c2f-4855-bd61-127e7e13ae6d@2651.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Freudis Rojas vs. Maurice Lee
+UID:1f0c2eb7-d1d6-487e-9ea5-d9ff3a2f0352@1f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T150000Z
+SUMMARY:Vergil Ortiz Jr. vs. Israil Madrimov
+UID:e6e1768f-bdd2-4d32-95e7-3eb426373af2@e6e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Jaquan McElroy vs. Joseph Starks
+UID:eee7c3cd-f71d-4f40-8eed-7a9674729e9e@eee7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Flyweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T200000Z
+SUMMARY:Jack Turner El Terrier vs. Ryan Farrag
+UID:bc32996c-a7a0-47ba-9763-80bbf2a1b6de@bc32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Jorge Chavez vs. Brandon Douglas
+UID:492565f4-8770-480d-99ad-059b306849bc@4925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Cruiserweight: IBF
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250608T120000Z
+SUMMARY:Jai Tapu Opetaia vs. Claudio Squeo
+UID:d99fb50a-37e3-45cc-8827-280ec28af726@d99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Heavyweight: IBF
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T160000Z
+SUMMARY:Daniel Dubois vs. Joseph Parker
+UID:11cf89c4-8d2a-4b51-aed0-bffc187244b3@11cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T190000Z
+SUMMARY:Caoimhin Agyarko vs. Harley Collison
+UID:106e2996-4fae-45fc-bb84-f53e947dc9b9@106e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Aichi Sky Expo\, Japan
+DTSTART:20250329T090000Z
+SUMMARY:Jeo Santisima vs. Ei Go
+UID:a4ad5614-23f2-4675-bf16-ab4171587397@a4ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T190000Z
+SUMMARY:Jeamie Tshikeva vs. Michael Webster
+UID:077d5d76-51aa-49d6-9c32-9f6d1f3edf37@077d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Victor Nagbe vs. Adones Cabalquinto
+UID:3b90beae-ed34-4da7-895a-6238dce057e7@3b90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T200000Z
+SUMMARY:Charles Frankham vs. Jahfibus Faure
+UID:f36e7bd0-8ce8-4d0e-aff8-a4105a82c711@f36e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T200000Z
+SUMMARY:Pat McCormack vs. Robbie Davies
+UID:d8611f06-af31-4cb7-80b8-713e209be48a@d861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBC
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T160000Z
+SUMMARY:Shakur Stevenson vs. Floyd Schofield
+UID:3e153d3b-6f6a-4ced-97c3-f59609d12748@3e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Flyweight
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T020000Z
+SUMMARY:Gloria Munguilla vs. Brook Sibrian
+UID:7d7e219d-2128-4821-9295-0c600f042dc5@7d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T180000Z
+SUMMARY:Henry Turner vs. Miguel Cesario Antin
+UID:61e78a67-923d-41c9-9a4e-8c02bc683752@61e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Fontainebleau Las Vegas\, USA
+DTSTART:20250330T000000Z
+SUMMARY:Delante Johnson vs. Kendo Castaneda
+UID:c0e2f972-3816-446c-9f67-849e2b06a46f@c0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBA
+DURATION:PT3H
+LOCATION:County Coliseum\, USA
+DTSTART:20250223T030000Z
+SUMMARY:Stephanie Han vs. Hannah Terlep
+UID:480a573c-dddf-4579-8618-591998cd2b93@480a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Samantha Worthington vs. Vaida Masiokaite
+UID:4654911b-d50f-4154-8e23-99f3d28b0b00@4654.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Joel Camilleri vs. Boniface Saguda
+UID:0979244c-56d9-4840-9247-f215c4a6b580@0979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T200000Z
+SUMMARY:Zelfa Barrett vs. James Dickens
+UID:ae86e3c0-3010-40ab-b58b-60f774bc113f@ae86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Featherweight: EBU
+DURATION:PT3H
+LOCATION:Bournemouth International Centre\, England
+DTSTART:20250301T220000Z
+SUMMARY:Ryan Garner vs. Salvador Jimenez
+UID:3e69e997-113d-440b-a876-dda31c02d447@3e69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250330T160000Z
+SUMMARY:Stevi Levy vs. Beccy Ferguson
+UID:b3ae14ea-51fb-4376-9b04-8bb8f0b33eb6@b3ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Cruiserweight: IBF
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T120000Z
+SUMMARY:Jai Tapu Opetaia vs. David Nyika
+UID:fb065ed5-44f3-445a-a7a5-fc6bca4b16c2@fb06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:Deric Davis vs. Jamal Johnson
+UID:b3cff0b1-7059-419a-8019-16568581c7ee@b3cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Qudos Bank Arena\, Australia
+DTSTART:20250322T080000Z
+SUMMARY:Imam Khataev vs. Durval Palacios
+UID:183c42ac-4abf-4c02-be6a-e6dd851f4b0c@183c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Omar El vs. Abdallah vs. John Korake
+UID:c8160474-254e-4dc2-8a23-63d75c767845@c816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Dort Financial Center\, USA
+DTSTART:20250203T000000Z
+SUMMARY:Joseph Hicks vs. Keon Papillion
+UID:a64b6f0a-5cc8-4e29-b024-61ab28c361df@a64b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T170000Z
+SUMMARY:Lucas Biswana vs. Ezequiel Gregores
+UID:3f8b54ba-9a98-4d2a-b6bb-c13b98ae5805@3f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Kokugikan\, Japan
+DTSTART:20250313T090000Z
+SUMMARY:Yuki Nagano vs. Takumi Ebina
+UID:43bce854-b2fa-4b2c-9704-d80e574f3d58@43bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T180000Z
+SUMMARY:Leighton Birchall vs. Laszlo Bernath
+UID:69b4ff9a-651e-4491-ad42-493d1643a380@69b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Park Community Arena\, England
+DTSTART:20250111T180000Z
+SUMMARY:Sam Hickey vs. Lewis Howells
+UID:eab8bcaf-6003-44b6-8e97-005b9406fa89@eab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Middleweight: Commonwealth
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T200000Z
+SUMMARY:Callum Simpson vs. Elvis Ahorgah
+UID:633cee93-85ae-4db5-b0c1-6cdbe864eace@633c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:Ariake Arena\, Japan
+DTSTART:20250224T080000Z
+SUMMARY:Tenshin Nasukawa vs. Jason Moloney
+UID:551338a1-6888-423d-80b4-1c2c5b36482d@5513.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Heavyweight
+DURATION:PT3H
+LOCATION:Park Community Arena\, England
+DTSTART:20250207T220000Z
+SUMMARY:Daniel Blenda Dos Santos vs. Shakan Pitters
+UID:a01a3dfb-3453-42a5-b9f2-a5b7354ff731@a01a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Cruiserweight: IBF
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T120000Z
+SUMMARY:Jai Tapu Opetaia vs. Huseyin Cinkara
+UID:16365028-28b1-4f78-adf0-c37c74883439@1636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Bantamweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Golagha Haddi vs. Miroslav Prochazka
+UID:5af77662-e6ee-47d8-8dd2-1a148e8dfbb2@5af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Zaquin Moses vs. Alex Pallette
+UID:eb04a29e-d841-4a4f-83d0-769db9346ec0@eb04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Boardwalk Hall\, USA
+DTSTART:20250412T230000Z
+SUMMARY:Shakhram Giyasov vs. Franco Ocampo
+UID:94da5806-4fba-4589-af9c-4d3e45bcaabe@94da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T140000Z
+SUMMARY:Joshua Buatsi vs. Callum Smith
+UID:605240ca-53b8-48f9-ac98-7bb57e7331f6@6052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Qudos Bank Arena\, Australia
+DTSTART:20250322T080000Z
+SUMMARY:Teremoana Junior vs. James Singh
+UID:99b71eed-5d83-4119-a0a7-add71549adc7@99b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Richard Meinecke vs. Andrei Antonov
+UID:a46b1897-2417-4314-8a84-02979271d98b@a46b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T200000Z
+SUMMARY:Jadier Herrera vs. Jose Rodolfo Macias
+UID:3890da37-7d7c-402f-b95d-4a4790d54e57@3890.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250405T230000Z
+SUMMARY:Baltazar Noria vs. Dario Soto
+UID:9804a2de-3ddf-4797-af25-06a9de71ba1d@9804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Mike Jaede vs. Achilles Szabo
+UID:33a36f59-a9ed-4f47-b8e7-0f0d4747d3d6@33a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T180000Z
+SUMMARY:Lucas Roehrig vs. Milosav Savic
+UID:c720592d-6c52-4877-9aa0-735559a88b21@c720.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250712T020000Z
+SUMMARY:Dina Thorslund vs. Shurretta Metcalf
+UID:7682bd71-78e3-4c32-8111-d0c21343c0e2@7682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bantamweight
+DURATION:PT3H
+LOCATION:Barys Arena\, Kazakhstan
+DTSTART:20250405T150000Z
+SUMMARY:Balaussa Muzdiman vs. Maria Theresa Pinili
+UID:de372885-8ae9-4e5e-99ce-3b8f95439a27@de37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Jesus Alejandro Ramos vs. Jeison Rosario
+UID:4db0d8bd-0d55-4c7c-8a55-e2ddbbde511c@4db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: Commonwealth
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T220000Z
+SUMMARY:Andrew Cain vs. Charlie Edwards
+UID:936cc969-95cd-44d8-badc-395089dbb4ef@936c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Flyweight
+DURATION:PT3H
+LOCATION:Poliforum Benito Juarez\, Mexico
+DTSTART:20250330T020000Z
+SUMMARY:Joselito Velazquez vs. Adolfo Castillo
+UID:05c132c0-95d9-4ba0-ba6a-65894635db55@05c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Echo Arena\, Great Britain
+DTSTART:20250315T200000Z
+SUMMARY:Boma Brown vs. Cristian Uwaka
+UID:9dc2eba5-9790-4382-90b8-e175e5c19794@9dc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T180000Z
+SUMMARY:Lewis Williams vs. Cristian Uwaka
+UID:d0109de9-2fe5-4263-a619-d946b3dd7a5d@d010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250215T000000Z
+SUMMARY:Rohan Polanco vs. Jean Torres
+UID:d8ef6beb-5af5-4bf0-92d4-e625dff388a6@d8ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:Nasheed Smith vs. Tariq Green
+UID:69f784ae-1b9d-4cdb-86b7-2774a3b6f956@69f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Featherweight
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20250125T180000Z
+SUMMARY:Ibraheem Sulaimaan vs. Facundo Arce
+UID:f816ce9d-fa2f-4d02-882b-4a5651900239@f816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Flyweight: WBA
+DURATION:PT3H
+LOCATION:Ota-City General Gymnasium\, Japan
+DTSTART:20250511T120000Z
+SUMMARY:Fernando Daniel Martinez vs. Kazuto Ioka
+UID:d2f741dc-5819-4e84-884d-139ba53ff3fa@d2f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250214T230000Z
+SUMMARY:Nico Ali Walsh vs. Juan Carlos Guerra
+UID:2c76fc80-cef8-42d1-b1c8-08bbc9fe2a71@2c76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Armend Xhoxhaj vs. Reinis Porozovs
+UID:8071ed57-7f88-45fc-be50-d30e8e076863@8071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T180000Z
+SUMMARY:Emmany Kalombo vs. Sergio Garcia Herrera
+UID:c1285678-0ced-4d1c-aaec-9a4bb929b273@c128.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Estadio F.A.B.\, Argentina
+DTSTART:20250405T230000Z
+SUMMARY:Pablo Ezequiel Corzo vs. Diego Quinonez
+UID:55a5f2da-b37b-4eef-8f0a-92a8e90bf2ff@55a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Michelob Ultra Arena\, USA
+DTSTART:20250323T030000Z
+SUMMARY:Joseph Brown vs. Ezequiel Duran
+UID:d4fe30b6-6733-42b4-9b12-09ac0d2c4d7c@d4fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T010000Z
+SUMMARY:Tayden Beltran vs. Eugene Lagos
+UID:4f98dc94-dd37-4ec6-8e55-bcfe1a07054d@4f98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Oleksandr Hvozdyk vs. Anthony Hollaway
+UID:72ef72e8-b33a-477a-add4-e5081387de21@72ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:County Coliseum\, USA
+DTSTART:20250223T000000Z
+SUMMARY:Jorge Tovar vs. Juan Francisco Lopez
+UID:513926d3-9c11-43a2-87ed-e1096bed0ee4@5139.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Frontwave Arena\, USA
+DTSTART:20250419T230000Z
+SUMMARY:Ruslan Abdullaev vs. Jino Rodrigo
+UID:8d64b1be-d3e3-4d92-80e6-bbb8401cd6e3@8d64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Flyweight: Commonwealth
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T210000Z
+SUMMARY:Emma Dolan vs. Lauren Parker
+UID:a1a61f01-f84b-43ea-b6b0-063a245deaaa@a1a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:The Melbourne Pavilion\, Australia
+DTSTART:20250411T120000Z
+SUMMARY:Taylor Stone vs. Aiden Kennedy
+UID:0b0824ef-1611-4ff1-8892-e9b892288bf9@0b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20250404T180000Z
+SUMMARY:Gradus Kraus vs. Tony Amoaku
+UID:b11266d7-159d-4403-8a1e-e481039db8aa@b112.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Isaac Cruz Gonzalez vs. Angel Fierro
+UID:fe44b579-d411-4b5d-ac49-40eb2100fa82@fe44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: IBF
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20250125T190000Z
+SUMMARY:Ellie Scotney vs. Mea Motu
+UID:98c8e315-6151-4ac1-a824-9b286501627f@98c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T160000Z
+SUMMARY:Martin Bakole vs. Joseph Parker
+UID:7b7cb3cb-e3df-497d-aad3-100040cdb0b3@7b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBO
+DURATION:PT3H
+LOCATION:Keepmoat Stadium\, England
+DTSTART:20250523T210000Z
+SUMMARY:Terri Harper vs. Natalie Zimmermann
+UID:b39f173d-8d79-4eec-b435-b3d1f8556156@b39f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Royal Albert Hall\, England
+DTSTART:20250307T200000Z
+SUMMARY:Cindy Ngamba vs. Kirstie Bavington
+UID:7500a265-8f85-4017-a691-edb741f81141@7500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Flyweight
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T000000Z
+SUMMARY:Tiago Gonzalez vs. Carlos Gabriel Perez
+UID:33593cb9-c65c-4982-aecf-f8fef54dcf2c@3359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBC
+DURATION:PT3H
+LOCATION:Royal Albert Hall\, England
+DTSTART:20250307T220000Z
+SUMMARY:Caroline Dubois vs. Bo vs. Mi vs. Re Shin
+UID:53373b5e-631f-46ae-a10e-25ae2e2d27ae@5337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Lightweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250215T200000Z
+SUMMARY:Aqib Fiaz vs. Lydon Chircop
+UID:a823ec1c-5046-44b1-8da9-abb29b8c899a@a823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:MBS Arena\, Germany
+DTSTART:20250405T190000Z
+SUMMARY:Viktor Vykhryst vs. Rydell Booker
+UID:9a036fab-7fe5-4d81-9f6a-7235f5006c68@9a03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Flyweight
+DURATION:PT3H
+LOCATION:Madison Square Garden\, USA
+DTSTART:20250215T000000Z
+SUMMARY:Juanma Lopez vs. Bryan Santiago
+UID:4e15e995-da3d-4111-95d7-87369c6d7b78@4e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Gold Coast Convention Centre\, Australia
+DTSTART:20250108T080000Z
+SUMMARY:Kodi Shallali vs. Albert Tu'ua
+UID:96e8e15a-a7ab-4156-b1a5-1c36adc51b44@96e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Middleweight
+DURATION:PT3H
+LOCATION:Commerce Casino\, USA
+DTSTART:20250118T020000Z
+SUMMARY:Ali Akhmedov vs. Malcolm Jones
+UID:c5e37144-482d-4840-8811-ce7255e5444f@c5e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Wembley Stadium\, Great Britain
+DTSTART:20250201T200000Z
+SUMMARY:Adam Azim vs. Sergey Lipinets
+UID:1855e5c7-9266-4459-a57c-0d2a1654dd16@1855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Co-op Live Arena\, England
+DTSTART:20250208T180000Z
+SUMMARY:Nelson Hysa vs. Todorche Cvetkov
+UID:f9e0d080-dda8-45e4-b5a5-60c91873973c@f9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20250202T000000Z
+SUMMARY:Jose Benavidez vs. Danny Rosenberger
+UID:eb434069-c7c8-4d9c-abfb-b5fd91699692@eb43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Lightweight
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T140000Z
+SUMMARY:Ziyad Almaayouf vs. Jonatas de Oliveira
+UID:d4cb6952-c1e9-4a7b-8e46-d85195c16862@d4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:Barclays Center New York\, USA
+DTSTART:20250302T000000Z
+SUMMARY:Jarrett Hurd vs. Johan Gonzalez
+UID:8d3a7900-e986-4a8c-aac4-04242e2e816e@8d3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBC
+DURATION:PT3H
+LOCATION:Kingdom Arena\, Saudi Arabia
+DTSTART:20250222T150000Z
+SUMMARY:Shakur Stevenson vs. Josh Padley
+UID:1f558e5d-2d5f-4fba-8e0e-e37c950a96cb@1f55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Featherweight: WBO
+DURATION:PT3H
+LOCATION:Pechanga Arena\, USA
+DTSTART:20250511T020000Z
+SUMMARY:Emanuel Navarrete vs. Charly Coronel Suarez
+UID:bee27b83-9b84-4fc1-a5a5-f582951796ea@bee2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Flyweight
+DURATION:PT3H
+LOCATION:Estadio Municipal Hector Gallucci\, Argentina
+DTSTART:20250309T000000Z
+SUMMARY:Gabriela Celeste Alaniz vs. Graciela Cortes
+UID:26b5f828-288b-47b6-ac78-cd37b27917da@26b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:Poliforum Benito Juarez\, Mexico
+DTSTART:20250330T020000Z
+SUMMARY:Robin Safar vs. Roberto Silva
+UID:bf585128-6895-434c-8fdc-db4320dfe838@bf58.org
 END:VEVENT
 END:VCALENDAR
