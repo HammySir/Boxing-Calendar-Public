@@ -2,82 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Title Super Bantamweight: EBU
-DURATION:PT3H
-LOCATION:Salle des Etoiles\, Monaco
-DTSTART:20251206T220000Z
-SUMMARY:Shabaz Masoud vs. Peter McGrail
-UID:c6047dcb-0af0-49fa-acc1-29479de487fe@c604.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Cruiserweight: WBC
-DURATION:PT3H
-DTSTART:20251214T030000Z
-SUMMARY:Badou Jack vs. Noel Mikaelyan
-UID:30f12372-f8c9-40f7-844d-afdaf27ddc4f@30f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Bantamweight: WBC
-DURATION:PT3H
-LOCATION:Toyota Arena\, USA
-DTSTART:20251124T130000Z
-SUMMARY:Tenshin Nasukawa vs. Takuma Inoue
-UID:b1cc1c7f-7663-46e4-9814-82e681f9492a@b1cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Bantamweight: WBA\, IBF\, WBC\, WBO
-DURATION:PT3H
-LOCATION:Kaseya Center\, USA
-DTSTART:20251115T030000Z
-SUMMARY:Cherneka Johnson vs. Amanda Galle
-UID:43f50c41-fc56-4247-95da-f1e3c903f5a1@43f5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:IBO Middleweight
 DURATION:PT3H
 LOCATION:Tottenham Hotspur Stadium\, London\, United Kingdom
 DTSTART:20251115T200000Z
 SUMMARY:Conor Benn vs. Chris Eubank Jr.
-UID:45c0efdb-7f8f-4f14-abd4-16c81e429a74@45c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Welterweight: Commonwealth
-DURATION:PT3H
-LOCATION:York Hall\, Great Britain
-DTSTART:20251130T220000Z
-SUMMARY:Constantin Ursu vs. Ryan Amos
-UID:94ed0334-1c4d-4c44-a801-52fbea4cf325@94ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Middleweight: EBU
-DURATION:PT3H
-DTSTART:20251115T220000Z
-SUMMARY:Diego Natchoo vs. Bilel Jkitou
-UID:cb421b00-c955-4cf0-ba26-ecdadeea8a2a@cb42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: IBF
-DURATION:PT3H
-LOCATION:Salle des Etoiles\, Monaco
-DTSTART:20251206T220000Z
-SUMMARY:Beatriz Ferreira vs. Elif Nur Turhan
-UID:eb2a2990-8065-417a-ab63-8a6635cb8769@eb2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Lightweight: EBU
-DURATION:PT3H
-LOCATION:Pabellon Esperanza Lag\, Spain
-DTSTART:20251115T220000Z
-SUMMARY:Jon Fernandez vs. Armando Casamonica
-UID:32406a9c-9afd-4d70-ac59-ee02a7cbd6a2@3240.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Minimumweight: WBC
-DURATION:PT3H
-LOCATION:Kaseya Center\, USA
-DTSTART:20251115T030000Z
-SUMMARY:Yokasta Valle vs. Yadira Bustillos
-UID:1d3a0297-198e-441a-9e4d-55a1c12260d7@1d3a.org
+UID:a983ef69-a39f-47cc-b1be-7eb20b362622@a983.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Title Cruiserweight: IBF
@@ -85,63 +15,7 @@ DURATION:PT3H
 LOCATION:Gold Coast Convention Centre\, Australia
 DTSTART:20251206T130000Z
 SUMMARY:Jai Tapu Opetaia vs. Huseyin Cinkara
-UID:06d9bb8f-ebe7-4569-b8a4-214de60d3f5a@06d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Light-Welterweight - Sky Sports
-DURATION:PT3H
-LOCATION:Tottenham Hotspur Stadium\, London\, United Kingdom
-DTSTART:20251115T200000Z
-SUMMARY:Adam Azim vs Zaur Abdullaev
-UID:15a01251-8c75-4995-9321-d6ad3338d45f@15a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Featherweight: WBA\, IBF\, WBO
-DURATION:PT3H
-LOCATION:Kaseya Center\, USA
-DTSTART:20251115T030000Z
-SUMMARY:Alycia Baumgardner vs. Leila Beaudoin
-UID:c52db498-e358-4a92-a761-563a1364e5bc@c52d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Featherweight: WBO
-DURATION:PT3H
-LOCATION:Arena Coliseo\, Mexico
-DTSTART:20251116T030000Z
-SUMMARY:Rafael Espinoza vs. Arnold Khegai
-UID:b7763094-b088-4a9f-b2c6-80340505072b@b776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Light Heavyweight: WBC
-DURATION:PT3H
-LOCATION:ANB Arena\, Saudi Arabia
-DTSTART:20251122T160000Z
-SUMMARY:David Benavidez vs. Anthony Yarde
-UID:0f156a15-4234-4b22-b201-b57d003c0588@0f15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Welterweight: WBO
-DURATION:PT3H
-LOCATION:ANB Arena\, Saudi Arabia
-DTSTART:20251122T160000Z
-SUMMARY:Brian Norman Jr vs. Devin Haney
-UID:7143f46e-939a-4e36-a3ef-c16919f1a5a3@7143.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Lightweight: WBO
-DURATION:PT3H
-LOCATION:ANB Arena\, Saudi Arabia
-DTSTART:20251122T160000Z
-SUMMARY:Abdullah Mason vs. Sam Noakes
-UID:6d41afd3-7f39-476a-814c-8bc040a79220@6d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight
-DURATION:PT3H
-LOCATION:Vaillant Live\, Derby\, United Kingdom - BBC Two
-DTSTART:20251129T220000Z
-SUMMARY:Frazer Clarke vs Jeamie 'TKV' Tshikeva
-UID:0356f673-b379-4f84-b11b-e55440e889ba@0356.org
+UID:e73c407d-f4ee-4736-a4e1-05087d110a46@e73c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Title Super Bantamweight: WBA\, IBF\, WBC\, WBO
@@ -149,39 +23,7 @@ DURATION:PT3H
 LOCATION:Kaseya Center\, USA
 DTSTART:20251115T030000Z
 SUMMARY:Ellie Scotney vs. Mayeli Flores
-UID:065dfdbc-eb2a-49a5-aa17-d5fb8ecf7ddd@065d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Lightweight: WBC
-DURATION:PT3H
-LOCATION:ANB Arena\, Saudi Arabia
-DTSTART:20251122T160000Z
-SUMMARY:Subriel Matias vs. Dalton Smith
-UID:c05a12e8-963a-410b-9304-44a4ab783f5e@c05a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Bantamweight: Commonwealth
-DURATION:PT3H
-LOCATION:York Hall\, Great Britain
-DTSTART:20251130T220000Z
-SUMMARY:Laura Pain vs. Megan Redstall
-UID:c15ba37f-d02c-410a-bac4-095bf84c193b@c15b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Flyweight: WBC\, WBO
-DURATION:PT3H
-LOCATION:ANB Arena\, Saudi Arabia
-DTSTART:20251122T160000Z
-SUMMARY:Jesse Rodriguez vs. Fernando Daniel Martinez
-UID:f5e20f39-32a8-49c9-a822-b64985b40bad@f5e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Heavyweight - Sky Sports
-DURATION:PT3H
-LOCATION:Tottenham Hotspur Stadium\, London\, United Kingdom
-DTSTART:20251115T193000Z
-SUMMARY:Richard Riakporhe vs Tommy Welch
-UID:3d4e7b60-4715-468d-b2b6-611957c614cc@3d4e.org
+UID:da722c54-d255-4426-995f-a6076ff9652f@da72.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Title Super Flyweight: IBF
@@ -189,31 +31,7 @@ DURATION:PT3H
 LOCATION:Mohammed Abdo Arena\, Saudi Arabia
 DTSTART:20251227T170000Z
 SUMMARY:Willibaldo Garcia vs. Ken Shiro
-UID:d39dd099-bce3-4c26-9fd4-4c4ea6eee69c@d39d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO
-DURATION:PT3H
-LOCATION:Mohammed Abdo Arena\, Saudi Arabia
-DTSTART:20251227T170000Z
-SUMMARY:Naoya Inoue vs. David Picasso
-UID:89e44b41-9b68-47f8-bf62-542713fa3d80@89e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight
-DURATION:PT3H
-LOCATION:The Agenda\, Dubai Media City\, Dubai\, UAE
-DTSTART:20251202T200000Z
-SUMMARY:Ricky Hatton vs Eisa Al Dah
-UID:cf9c2cab-99cb-42bb-89bd-0951931a37b7@cf9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Middleweight - DAZN
-DURATION:PT3H
-LOCATION:Tottenham Hotspur Stadium\, London\, United Kingdom
-DTSTART:20251115T220000Z
-SUMMARY:Chris Eubank Jr. vs Conor Benn
-UID:7b4c7743-144b-48ee-b140-88b4cd28ce50@7b4c.org
+UID:a2489966-6337-4d52-832c-02296cb3401f@a248.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Title Light Flyweight: WBC
@@ -221,7 +39,62 @@ DURATION:PT3H
 LOCATION:The Imperial Queens Park Hotel\, Thailand
 DTSTART:20251204T160000Z
 SUMMARY:Carlos Canizales vs. Thammanoon Niyomtrong
-UID:69d4ca27-27cb-440f-a7fd-6ba52cb653f5@69d4.org
+UID:dc3dd870-50a2-4ecb-a28b-8e79119c56ff@dc3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: WBC
+DURATION:PT3H
+LOCATION:ANB Arena\, Saudi Arabia
+DTSTART:20251122T160000Z
+SUMMARY:Subriel Matias vs. Dalton Smith
+UID:4856f084-68ec-453d-8092-cff25c43223a@4856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Mohammed Abdo Arena\, Saudi Arabia
+DTSTART:20251227T170000Z
+SUMMARY:Naoya Inoue vs. David Picasso
+UID:e74e50b7-d001-4933-9257-e204b4e657f3@e74e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Vaillant Live\, Derby\, United Kingdom - BBC Two
+DTSTART:20251129T220000Z
+SUMMARY:Frazer Clarke vs Jeamie 'TKV' Tshikeva
+UID:ae42d468-139a-4b38-b8df-469260924170@ae42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Light Heavyweight: WBC
+DURATION:PT3H
+LOCATION:ANB Arena\, Saudi Arabia
+DTSTART:20251122T160000Z
+SUMMARY:David Benavidez vs. Anthony Yarde
+UID:e666d9aa-eefa-4584-9378-3636029ed464@e666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: WBO
+DURATION:PT3H
+LOCATION:ANB Arena\, Saudi Arabia
+DTSTART:20251122T160000Z
+SUMMARY:Abdullah Mason vs. Sam Noakes
+UID:ce1fe18e-3867-487c-a893-9b50ef222459@ce1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Cruiserweight: WBC
+DURATION:PT3H
+DTSTART:20251214T030000Z
+SUMMARY:Badou Jack vs. Noel Mikaelyan
+UID:0fea4801-652c-42d2-9069-094d42cfd8ba@0fea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: WBC
+DURATION:PT3H
+LOCATION:Toyota Arena\, USA
+DTSTART:20251124T130000Z
+SUMMARY:Tenshin Nasukawa vs. Takuma Inoue
+UID:7ef6cc24-0782-4551-b6cf-fe33786dfcde@7ef6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Light Heavyweight
@@ -229,6 +102,133 @@ DURATION:PT3H
 LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
 DTSTART:20251122T200000Z
 SUMMARY:Artur Beterbiev vs Deon Nicholson
-UID:4de3ed8f-1de8-43d6-ba0e-4e8fad7c3b6d@4de3.org
+UID:0f9d5a9d-7653-4469-b1f2-356ad107aa3c@0f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Flyweight: WBC\, WBO
+DURATION:PT3H
+LOCATION:ANB Arena\, Saudi Arabia
+DTSTART:20251122T160000Z
+SUMMARY:Jesse Rodriguez vs. Fernando Daniel Martinez
+UID:03d00127-ead5-402b-8fa4-d7eee5b627f5@03d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Middleweight: EBU
+DURATION:PT3H
+DTSTART:20251115T220000Z
+SUMMARY:Diego Natchoo vs. Bilel Jkitou
+UID:ac46fbed-24c8-4260-ac17-cfbf94e91748@ac46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: WBA\, IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Kaseya Center\, USA
+DTSTART:20251115T030000Z
+SUMMARY:Cherneka Johnson vs. Amanda Galle
+UID:3f6c61cc-1413-47a7-aeb0-5ddc4244df17@3f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Minimumweight: WBC
+DURATION:PT3H
+LOCATION:Kaseya Center\, USA
+DTSTART:20251115T030000Z
+SUMMARY:Yokasta Valle vs. Yadira Bustillos
+UID:f871e19c-e755-4b9b-941a-3d1a11542f26@f871.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Lightweight: IBF
+DURATION:PT3H
+LOCATION:Salle des Etoiles\, Monaco
+DTSTART:20251206T220000Z
+SUMMARY:Beatriz Ferreira vs. Elif Nur Turhan
+UID:4f6f1e87-1e8b-4f35-8daa-8aad430958b1@4f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light Heavyweight
+DURATION:PT3H
+LOCATION:The Nec\, Birmingham\, United Kingdom
+DTSTART:20251129T220000Z
+SUMMARY:Ben Whittaker vs Benjamin Gavazi
+UID:d2bf2571-2218-4133-bf73-e42cdd2c5ebb@d2bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Bantamweight: Commonwealth
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20251130T220000Z
+SUMMARY:Laura Pain vs. Megan Redstall
+UID:f31703cd-dbf8-44fd-b940-046cae97e619@f317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Welterweight: WBO
+DURATION:PT3H
+LOCATION:ANB Arena\, Saudi Arabia
+DTSTART:20251122T160000Z
+SUMMARY:Brian Norman Jr vs. Devin Haney
+UID:f80176de-065a-4252-ba4f-911c6fed182d@f801.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Light-Welterweight - Sky Sports
+DURATION:PT3H
+LOCATION:Tottenham Hotspur Stadium\, London\, United Kingdom
+DTSTART:20251115T200000Z
+SUMMARY:Adam Azim vs Zaur Abdullaev
+UID:f22155f1-c6c6-4522-9735-225b31712da8@f221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Featherweight: WBO
+DURATION:PT3H
+LOCATION:Arena Coliseo\, Mexico
+DTSTART:20251116T030000Z
+SUMMARY:Rafael Espinoza vs. Arnold Khegai
+UID:3defb71f-0fc9-4b7a-afbc-d462a4889b9a@3def.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Middleweight
+DURATION:PT3H
+LOCATION:The Agenda\, Dubai Media City\, Dubai\, UAE
+DTSTART:20251202T200000Z
+SUMMARY:Ricky Hatton vs Eisa Al Dah
+UID:0b39af20-3864-4676-a5a4-ef91486a6c8b@0b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Featherweight: WBA\, IBF\, WBO
+DURATION:PT3H
+LOCATION:Kaseya Center\, USA
+DTSTART:20251115T030000Z
+SUMMARY:Alycia Baumgardner vs. Leila Beaudoin
+UID:7bb4ef4f-b8db-4558-bd31-a9ba01c7e68c@7bb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Bantamweight: EBU
+DURATION:PT3H
+LOCATION:Salle des Etoiles\, Monaco
+DTSTART:20251206T220000Z
+SUMMARY:Shabaz Masoud vs. Peter McGrail
+UID:a114d1b0-0f57-4ed3-9c08-7037a7df07da@a114.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Welterweight: Commonwealth
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20251130T220000Z
+SUMMARY:Constantin Ursu vs. Ryan Amos
+UID:c83de31d-d65d-4b14-8991-ad7e221c1c01@c83d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight - Sky Sports
+DURATION:PT3H
+LOCATION:Tottenham Hotspur Stadium\, London\, United Kingdom
+DTSTART:20251115T193000Z
+SUMMARY:Richard Riakporhe vs Tommy Welch
+UID:1fe908f8-5bf4-4647-aa32-166e81672f0a@1fe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Title Super Lightweight: EBU
+DURATION:PT3H
+LOCATION:Pabellon Esperanza Lag\, Spain
+DTSTART:20251115T220000Z
+SUMMARY:Jon Fernandez vs. Armando Casamonica
+UID:e29013b5-16e1-4d86-b264-cf0d9b4f5b0a@e290.org
 END:VEVENT
 END:VCALENDAR
