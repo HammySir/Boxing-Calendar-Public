@@ -2,36 +2,92 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Teofimo vs Shakur Ring VI: WBC
+DESCRIPTION:Medina vs. Curiel
 DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20260201T030000Z
-SUMMARY:Bruce Carrington vs. Carlos Castro
-UID:72b72c5f-e20c-4c25-9c82-702157bc509f@72b7.org
+LOCATION:Domo Alcalde\, Mexico
+DTSTART:20260206T210000Z
+SUMMARY:Sebastian Juarez vs. Ernesto Sanchez
+UID:0697d30a-45f7-4308-a49e-704c1031ebcb@0697.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Shields vs. Crews-Dezurn II: IBF\, WBC\, WBO
+DESCRIPTION:Dickens vs. Cacace
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260314T200000Z
+SUMMARY:James Dickens vs. Anthony Cacace
+UID:baf03bcc-a19d-499d-b99c-fd0863ec590c@baf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Medina vs. Curiel
+DURATION:PT3H
+LOCATION:Domo Alcalde\, Mexico
+DTSTART:20260206T210000Z
+SUMMARY:Roberto Carbajal vs. Edgar Vazquez
+UID:ef497473-f2d7-4911-ac61-570dd71c7abe@ef49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Medina vs. Curiel
+DURATION:PT3H
+LOCATION:Domo Alcalde\, Mexico
+DTSTART:20260206T210000Z
+SUMMARY:Manuel Sabanero vs. Isaac Aranda
+UID:74e64682-8d3a-401e-885c-131f0bca4bb1@74e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Russell vs. Hiraoka: IBF
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20260222T020000Z
+SUMMARY:Richardson Hitchins vs. Oscar Duarte
+UID:1374e9f9-e131-431d-b204-a39fdcf55446@1374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Medina vs. Curiel
+DURATION:PT3H
+LOCATION:Domo Alcalde\, Mexico
+DTSTART:20260206T210000Z
+SUMMARY:Angel Garcia vs. Juan Alcantara
+UID:bdf56423-d876-43d4-9e54-150c7b2ee229@bdf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pagan vs. Jimenez
+DURATION:PT3H
+LOCATION:GLC Live at 20 Monroe\, USA
+DTSTART:20260211T010000Z
+SUMMARY:Joseph Hicks vs. Todd Manuel
+UID:c69876a4-83eb-44dc-bbbf-09f707be852c@c698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shields vs. Crews-Dezurn II
 DURATION:PT3H
 LOCATION:Little Ceasars Arena\, USA
-DTSTART:20260223T030000Z
-SUMMARY:Claressa Shields vs. Franchon Crews Dezurn
-UID:f7db6a2c-87b0-4efa-b9d2-9653f7fff7be@f7db.org
+DTSTART:20260223T200000Z
+SUMMARY:Che Kenneally vs. Danielle Perkins
+UID:3d566a16-5b50-4e40-b2f5-71b3336f1a04@3d56.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Zayas vs. Baraou: WBO
+DESCRIPTION:Pagan vs. Jimenez: WBC
 DURATION:PT3H
-LOCATION:Coliseo Jose Miguel Agrelot\, Puerto Rico
-DTSTART:20260131T160000Z
-SUMMARY:Xander Zayas vs. Abass Baraou
-UID:adfe1ee8-2733-475e-80dd-62ca22c29790@adfe.org
+LOCATION:GLC Live at 20 Monroe\, USA
+DTSTART:20260211T030000Z
+SUMMARY:Caroline Veyre vs. Delfine Persoon
+UID:284546ca-762c-463a-a12d-602af00bc17e@2845.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Navarrete vs. Nunez: IBF\, WBO
+DESCRIPTION:Medina vs. Curiel
 DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260301T030000Z
-SUMMARY:Emanuel Navarrete vs. Eduardo Nunez
-UID:0473159d-b33c-4254-92f9-1516dbc31f97@0473.org
+LOCATION:Domo Alcalde\, Mexico
+DTSTART:20260206T210000Z
+SUMMARY:Alberto Mora vs. Jose Amaro
+UID:6df2a1a3-066f-4f59-b745-8fb7e6ee3245@6df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pagan vs. Jimenez
+DURATION:PT3H
+LOCATION:GLC Live at 20 Monroe\, USA
+DTSTART:20260211T030000Z
+SUMMARY:Justin Lacey vs. Pierce vs. Jose Luis Sanchez
+UID:08719899-a377-4d8b-adaa-7e2e58df6093@0871.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Wood vs. Warrington II
@@ -39,39 +95,95 @@ DURATION:PT3H
 LOCATION:Nottingham Arena\, England
 DTSTART:20260221T200000Z
 SUMMARY:Sandy Ryan vs. Karla Ramos Zamora
-UID:884fabeb-1299-483b-a55b-90f08cbda388@884f.org
+UID:1be516ca-246f-450d-b8da-2e897c1280e8@1be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Russell vs. Hiraoka
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20260222T010000Z
+SUMMARY:Frank Martin vs. Nahir Albright
+UID:f70812ea-2382-42a5-86bf-3954e9fd2fda@f708.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dickens vs. Cacace: IBO
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260314T210000Z
+SUMMARY:Pierce O'Leary vs. Mark Chamberlain
+UID:a50e5516-d388-4ac7-ba00-5f43025b18fa@a50e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Wood vs. Warrington II
+DURATION:PT3H
+LOCATION:Nottingham Arena\, England
+DTSTART:20260221T220000Z
+SUMMARY:Leigh Wood vs. Josh Warrington
+UID:c96f89b8-edbb-4ba8-b90b-f936cfd54b16@c96f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pagan vs. Jimenez
 DURATION:PT3H
 LOCATION:GLC Live at 20 Monroe\, USA
-DTSTART:20260123T030000Z
-SUMMARY:Justin Lacey vs. Pierce vs. Jose Luis Sanchez
-UID:85f112fb-2d8d-47d4-99c7-2f7c451105bf@85f1.org
+DTSTART:20260211T030000Z
+SUMMARY:Joshua Pagan vs. Bryan Jimenez
+UID:2268619a-bc58-4965-b542-1464b3037511@2268.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Colm Murphy vs. Saleh Kassim: Commonwealth
+DESCRIPTION:Medina vs. Curiel: WBO
 DURATION:PT3H
-LOCATION:Mossley Mill\, Northern Ireland
-DTSTART:20260131T220000Z
-SUMMARY:Colm Murphy vs. Saleh Kassim
-UID:a668ccf5-f045-4936-a222-5cd6f17c025f@a668.org
+LOCATION:Domo Alcalde\, Mexico
+DTSTART:20260206T220000Z
+SUMMARY:Christian Medina vs. Adrian Curiel
+UID:dea2992b-dac4-46bd-9738-11c68bf0e812@dea2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Pagan vs. Jimenez: WBC
+DESCRIPTION:Russell vs. Hiraoka
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20260222T020000Z
+SUMMARY:Gary Antuanne Russell vs. Andy Hiraoka
+UID:46be9e87-29bb-453f-8d23-1098542d5805@46be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Russell vs. Hiraoka: WBC
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20260222T020000Z
+SUMMARY:Mario Barrios vs. Ryan Garcia
+UID:cf7bc0ed-ca21-4a0f-a8f6-5459125b02bc@cf7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Medina vs. Curiel
+DURATION:PT3H
+LOCATION:Domo Alcalde\, Mexico
+DTSTART:20260206T210000Z
+SUMMARY:Abraham Cordero vs. Eduardo Martinez
+UID:c7e421ab-61e8-4f63-9844-8370fcdbf6c0@c7e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pagan vs. Jimenez
 DURATION:PT3H
 LOCATION:GLC Live at 20 Monroe\, USA
-DTSTART:20260123T030000Z
-SUMMARY:Caroline Veyre vs. Delfine Persoon
-UID:274b5261-f989-48ae-a159-56794c758823@274b.org
+DTSTART:20260211T010000Z
+SUMMARY:Sardius Simmons vs. Jonathan Lee Rice
+UID:eeabc7ec-d000-4fad-b710-613b4df15257@eeab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Muratalla vs. Cruz: IBF
+DESCRIPTION:Wood vs. Warrington II
 DURATION:PT3H
-LOCATION:Fontainebleau Las Vegas\, USA
-DTSTART:20260125T030000Z
-SUMMARY:Raymond Muratalla vs. Andy Cruz
-UID:61f84134-d9d2-4b43-967e-11a1e7cc45a9@61f8.org
+LOCATION:Nottingham Arena\, England
+DTSTART:20260221T200000Z
+SUMMARY:Molly McCann vs. Beata Dudek
+UID:acb7924f-9d69-4699-ba11-baecf7601ece@acb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dickens vs. Cacace: IBO
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260314T210000Z
+SUMMARY:Jono Carroll vs. Colm Murphy
+UID:5e4788c5-008c-41e3-94a5-bcb7edaab0d4@5e47.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Wood vs. Warrington II: Commonwealth
@@ -79,46 +191,38 @@ DURATION:PT3H
 LOCATION:Nottingham Arena\, England
 DTSTART:20260221T220000Z
 SUMMARY:Ishmael Davis vs. Bilal Fawaz
-UID:509ce9e2-b443-426a-99e9-c2501a013481@509c.org
+UID:15af56f3-4e4d-4eed-be37-a8c793210bfd@15af.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teofimo vs Shakur Ring VI: WBC
+DESCRIPTION:Navarrete vs. Nunez: IBF\, WBO
 DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20260201T030000Z
-SUMMARY:Carlos Adames vs. Austin Williams
-UID:5ec3f48d-ffb1-4648-b737-0fcc882cc721@5ec3.org
+LOCATION:Desert Diamond Arena\, USA
+DTSTART:20260301T030000Z
+SUMMARY:Emanuel Navarrete vs. Eduardo Nunez
+UID:a55dad67-101a-42d5-9d8a-28cc7d98150d@a55d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Pagan vs. Jimenez
 DURATION:PT3H
 LOCATION:GLC Live at 20 Monroe\, USA
-DTSTART:20260123T030000Z
-SUMMARY:Joshua Pagan vs. Bryan Jimenez
-UID:8116d983-66bd-4648-8cdd-e04357972618@8116.org
+DTSTART:20260211T010000Z
+SUMMARY:Ulysses Campos vs. Teon McGee
+UID:64ec6e2d-4f36-486d-be74-d3bcb9c8328f@64ec.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Teofimo vs Shakur Ring VI: WBO
+DESCRIPTION:Wood vs. Warrington II
 DURATION:PT3H
-LOCATION:Madison Square Garden\, USA
-DTSTART:20260201T030000Z
-SUMMARY:Teofimo Lopez vs. Shakur Stevenson
-UID:bedd665a-e047-488a-9d1f-6983c746979b@bedd.org
+LOCATION:Nottingham Arena\, England
+DTSTART:20260221T200000Z
+SUMMARY:Tiah Ayton vs. Catherine Tacone
+UID:61803b85-92e8-4b7f-bffd-d2ef3c8a9855@6180.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Murtazaliev vs. Kelly: IBF
+DESCRIPTION:Shields vs. Crews-Dezurn II: IBF\, WBC\, WBO
 DURATION:PT3H
-LOCATION:Newcastle Arena\, England
-DTSTART:20260131T220000Z
-SUMMARY:Bakhram Murtazaliev vs. Joshua Kelly
-UID:7ddc0550-d4a1-46e6-84a0-f3af438320d8@7ddc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Junior Welterweight
-DURATION:PT3H
-LOCATION:Copper Box Arena\, London\, United Kingdom
-DTSTART:20260131T220000Z
-SUMMARY:Adam Azim vs Gustavo Lemos
-UID:6c7689e1-fb51-4ce2-b4f2-89de83788007@6c76.org
+LOCATION:Little Ceasars Arena\, USA
+DTSTART:20260223T030000Z
+SUMMARY:Claressa Shields vs. Franchon Crews Dezurn
+UID:696b3813-26af-474c-893d-c185b906bb8f@696b.org
 END:VEVENT
 END:VCALENDAR
