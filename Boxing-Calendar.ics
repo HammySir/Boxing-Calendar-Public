@@ -2,180 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Taylor vs. Haley: Commonwealth
+DESCRIPTION:Mason vs. Bell
 DURATION:PT3H
-LOCATION:Aldersley Leisure Village\, England
-DTSTART:20260613T210000Z
-SUMMARY:Omarah Taylor vs. Kerry Haley
-UID:60b951b3-510b-4e30-ae3d-4953b7a76b41@60b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Crocker vs. Paro: IBF
-DURATION:PT3H
-LOCATION:Pat Rafter Arena\, Australia
-DTSTART:20260624T050000Z
-SUMMARY:Lewis Crocker vs. Liam Paro
-UID:5c8a90b0-b45a-4790-92dc-20a303188b71@5c8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Zayas vs. Ennis: WBA\, WBO
-DURATION:PT3H
-LOCATION:Barclays Center New York\, USA
-DTSTART:20260628T020000Z
-SUMMARY:Xander Zayas vs. Jaron Ennis
-UID:94d9eca4-5d2b-4436-a8e2-dc88f109d711@94d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Keno Marley vs. Jordan Gruszewski
-UID:3005a954-68c5-4c27-8d57-63d5f4c39031@3005.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria: WBA\, IBF\, WBO
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260614T020000Z
-SUMMARY:Evelyn Nazarena Bermudez vs. Estefany Alegria
-UID:ac69d1de-5dad-4018-9276-375960fc6ed1@ac69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez
-DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Hector Beltran vs. Shaquile Felicia
-UID:c786ed5f-4b0d-463e-9ede-92be1cc1416b@c786.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Jordan Orozco vs. Fernando Diaz
-UID:6f782430-08b9-464d-9f2a-0dcef60724ad@6f78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez
-DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Adrian Rodriguez vs. Elias Terraza
-UID:1228f961-27ef-4630-9925-3875d07120c3@1228.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Jully de Oliveira vs. Monica Medina
-UID:361eaacc-52e9-4d88-92c8-2a22024bb379@361e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria: WBC
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260614T020000Z
-SUMMARY:Tiara Brown vs. Hannah Noelle Rapp
-UID:4acb5824-e33a-4dcb-ac32-9308624493b8@4acb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez
-DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Elif Nur Turhan vs. Gabriela Tellez
-UID:997ddef2-cd84-4b6a-bf61-c849cf3f55eb@997d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez
-DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Xechal Esquivel vs. Rayshawn Taylor
-UID:cff0dafd-ce46-445e-9154-308db661af1c@cff0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Brittany Sims vs. Naomy Cardenas
-UID:d13a0435-6020-4f06-acb1-b0f27b74d090@d13a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Cruiserweight
-DURATION:PT3H
-LOCATION:Sphere\, Las Vegas\, Nevada
-DTSTART:20260920T050000Z
-SUMMARY:Floyd Mayweather vs. Manny Pacquiao II
-UID:55dd72bf-9099-437c-ba36-f87672dbd273@55dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez
-DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Arturo Cardenas vs. Jordan Martinez
-UID:40feeb1d-cc19-4b60-a156-1324de9afc47@40fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Gabriela Tellez vs. Calista Silgado
-UID:13fd4543-5947-45ad-99cf-42294d595cc2@13fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria: WBA
-DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260614T020000Z
-SUMMARY:Jasmine Artiga vs. Nataly Delgado
-UID:4b276dea-86c4-4ed9-b41e-b26d6d68eaf7@4b27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Athens\, Greece
-DTSTART:20260627T220000Z
-SUMMARY:Floyd Mayweather Jr. vs Mike Zambidis
-UID:9b6ef823-cdf4-47a6-9e45-3fc5a32e8a2f@9b6e.org
+LOCATION:Wolstein Center\, USA
+DTSTART:20260704T230000Z
+SUMMARY:Delante Johnson vs. Christopher Guerrero
+UID:778fd7f6-9617-4ec0-a0ae-1d58dac34cce@778f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Heavyweight
 DURATION:PT3H
-LOCATION:Manchester\, United Kingdom
-DTSTART:20260613T220000Z
-SUMMARY:Tommy Fury vs Eddie Hall
-UID:04331e56-df60-4b3a-9939-642f4c0917e8@0433.org
+LOCATION:Thailand
+DTSTART:20260724T150000Z
+SUMMARY:Tyson Fury vs Mariusz Wach
+UID:c5aed2a7-3313-4a57-952b-057bb278d05b@c5ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez: WBA
+DESCRIPTION:Mason vs. Bell
 DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260614T020000Z
-SUMMARY:Antonio Vargas vs. Jesse Rodriguez
-UID:e4d18718-4f44-4709-864f-f821066fd141@e4d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
-DURATION:PT3H
-LOCATION:Cbus Super Stadium\, Australia
-DTSTART:20260725T170000Z
-SUMMARY:Errol Spence vs. Tim Tszyu
-UID:dd6af2c5-8f08-4093-a2cc-8eca99e494ce@dd6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez
-DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Ronny Alvarez vs. Filip Stankovic
-UID:37b4fc9b-3e4b-49bb-ab2f-c0ca83656733@37b4.org
+LOCATION:Wolstein Center\, USA
+DTSTART:20260704T230000Z
+SUMMARY:Ibrahim Mason vs. Erik Hanley
+UID:7b3ad24f-4efe-4a5d-a7a1-41bbb381dced@7b3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Heavyweight
@@ -183,30 +31,86 @@ DURATION:PT3H
 LOCATION:Riyadh\, Saudi Arabia
 DTSTART:20260725T220000Z
 SUMMARY:Anthony Joshua vs Kristian Prenga
-UID:83497593-877b-40ff-931b-ec6e175ea1f7@8349.org
+UID:1b57a84e-cfb9-4181-a170-c27a8a33923a@1b57.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria
+DESCRIPTION:Ruiz vs. Fuchs: WBC
 DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260613T230000Z
-SUMMARY:LeAnna Cruz vs. Rubi Gutierrez
-UID:9c8aea97-9e23-4403-b821-b62a27fdea24@9c8a.org
+LOCATION:Orange Show Events Center\, USA
+DTSTART:20260719T020000Z
+SUMMARY:Adelaida Ruiz vs. Ginny Fuchs
+UID:09ee427b-9598-41b4-9793-74412ec3ff35@09ee.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Bermudez vs. Alegria: IBF
+DESCRIPTION:Mason vs. Bell: WBC
 DURATION:PT3H
-LOCATION:Caribe Royale Orlando\, USA
-DTSTART:20260614T020000Z
-SUMMARY:Oshae Jones vs. Elia Carranza
-UID:615e30c5-fc9d-475f-87e5-40bebc588886@615e.org
+LOCATION:Wolstein Center\, USA
+DTSTART:20260705T020000Z
+SUMMARY:Bruce Carrington vs. Rene Palacios
+UID:efccf589-48f3-4be6-950e-2bd47f46ce56@efcc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Vargas vs. Rodriguez
+DESCRIPTION:Gassiev vs. Yoka: WBA
 DURATION:PT3H
-LOCATION:Desert Diamond Arena\, USA
-DTSTART:20260613T230000Z
-SUMMARY:Trini Ochoa vs. Cristian Perez
-UID:a7295c39-44ec-4ec5-8adb-dfd8083becc7@a729.org
+LOCATION:VTB Arena\, Russia
+DTSTART:20260711T210000Z
+SUMMARY:Murat Gassiev vs. Tony Yoka
+UID:a173eaa9-1923-448b-94d7-eb303d4edfec@a173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:The O2 Arena\, London\, United Kingdom
+DTSTART:20260829T220000Z
+SUMMARY:Moses Itauma vs Filip Hrgovic
+UID:200c13ee-34e5-4de0-a73c-99e21bd54f8f@200c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cruiserweight
+DURATION:PT3H
+LOCATION:Sphere\, Las Vegas\, Nevada
+DTSTART:20260920T050000Z
+SUMMARY:Floyd Mayweather vs. Manny Pacquiao II
+UID:9117b7de-5101-46b7-9594-dd4207f79e7f@9117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Davies vs. Jones: Commonwealth
+DURATION:PT3H
+LOCATION:Kings Hall\, England
+DTSTART:20260718T210000Z
+SUMMARY:Kyle Davies vs. Brandon Jones
+UID:fe817020-ad48-48b0-a639-000e995bcdc5@fe81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mason vs. Bell: WBO
+DURATION:PT3H
+LOCATION:Wolstein Center\, USA
+DTSTART:20260705T020000Z
+SUMMARY:Abdullah Mason vs. Albert Bell
+UID:22a616c7-0535-4d39-8208-5b65b05da3cc@22a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Super Welterweight
+DURATION:PT3H
+LOCATION:Cbus Super Stadium\, Australia
+DTSTART:20260725T170000Z
+SUMMARY:Errol Spence vs. Tim Tszyu
+UID:783271dc-6aca-4e09-937a-f16c00ebee8a@7832.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mason vs. Bell: WBO
+DURATION:PT3H
+LOCATION:Wolstein Center\, USA
+DTSTART:20260705T000000Z
+SUMMARY:Abdullah Mason vs. Joseph Cordina
+UID:d8362ad9-2bfe-43e9-bca8-ae9de3897adf@d836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mason vs. Bell
+DURATION:PT3H
+LOCATION:Wolstein Center\, USA
+DTSTART:20260704T230000Z
+SUMMARY:Abdurrahman Mason vs. Alvaro Huizar
+UID:dd4b8e49-1bc8-4f98-9f07-8a249d60478f@dd4b.org
 END:VEVENT
 END:VCALENDAR
