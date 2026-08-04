@@ -2,60 +2,132 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Mason vs. Bell
+DESCRIPTION:Johnson vs. Thorslund
 DURATION:PT3H
-LOCATION:Wolstein Center\, USA
-DTSTART:20260704T230000Z
-SUMMARY:Delante Johnson vs. Christopher Guerrero
-UID:778fd7f6-9617-4ec0-a0ae-1d58dac34cce@778f.org
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T010000Z
+SUMMARY:Sebastian Juarez vs. Rance Ward
+UID:a50e0d3c-ea15-48f4-824b-90484a3661c2@a50e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Heavyweight
+DESCRIPTION:Johnson vs. Thorslund
 DURATION:PT3H
-LOCATION:Thailand
-DTSTART:20260724T150000Z
-SUMMARY:Tyson Fury vs Mariusz Wach
-UID:c5aed2a7-3313-4a57-952b-057bb278d05b@c5ae.org
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T010000Z
+SUMMARY:Shurretta Metcalf vs. Amanda Galle
+UID:e1540f26-0118-4548-8a95-008ac926d264@e154.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mason vs. Bell
+DESCRIPTION:Shields vs. Scott
 DURATION:PT3H
-LOCATION:Wolstein Center\, USA
-DTSTART:20260704T230000Z
-SUMMARY:Ibrahim Mason vs. Erik Hanley
-UID:7b3ad24f-4efe-4a5d-a7a1-41bbb381dced@7b3a.org
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T010000Z
+SUMMARY:Casey Dixon vs. Michael Nelson
+UID:304f1109-ee5b-411b-a56f-ca98d705243b@304f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Heavyweight
+DESCRIPTION:Liddard vs. Morello: EBU
 DURATION:PT3H
-LOCATION:Riyadh\, Saudi Arabia
-DTSTART:20260725T220000Z
-SUMMARY:Anthony Joshua vs Kristian Prenga
-UID:1b57a84e-cfb9-4181-a170-c27a8a33923a@1b57.org
+LOCATION:York Hall\, Great Britain
+DTSTART:20260822T210000Z
+SUMMARY:George Liddard vs. Dario Morello
+UID:341ef23a-e40b-432d-9bd9-c7683b00729b@341e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ruiz vs. Fuchs: WBC
+DESCRIPTION:Brown vs. Hedges: Commonwealth
 DURATION:PT3H
-LOCATION:Orange Show Events Center\, USA
-DTSTART:20260719T020000Z
-SUMMARY:Adelaida Ruiz vs. Ginny Fuchs
-UID:09ee427b-9598-41b4-9793-74412ec3ff35@09ee.org
+LOCATION:Co-op Live Arena\, England
+DTSTART:20260919T210000Z
+SUMMARY:Pat Brown vs. John Hedges
+UID:1a0d67f7-74ac-4a51-a16b-9bfa7282a8da@1a0d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mason vs. Bell: WBC
+DESCRIPTION:Shields vs. Scott: WBA\, WBC
 DURATION:PT3H
-LOCATION:Wolstein Center\, USA
-DTSTART:20260705T020000Z
-SUMMARY:Bruce Carrington vs. Rene Palacios
-UID:efccf589-48f3-4be6-950e-2bd47f46ce56@efcc.org
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T020000Z
+SUMMARY:Claressa Shields vs. Kaye Scott
+UID:19598536-058c-4910-a396-24e8658928b2@1959.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Gassiev vs. Yoka: WBA
+DESCRIPTION:Super Middleweight
 DURATION:PT3H
-LOCATION:VTB Arena\, Russia
-DTSTART:20260711T210000Z
-SUMMARY:Murat Gassiev vs. Tony Yoka
-UID:a173eaa9-1923-448b-94d7-eb303d4edfec@a173.org
+LOCATION:ANB Arena\, Riyadh\, Saudi Arabia
+DTSTART:20261031T220000Z
+SUMMARY:Saul "Canelo" Alvarez vs Christian Mbilli
+UID:e6ec0c2a-bb4f-48dd-8ef1-5ef02856e8c5@e6ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Itauma vs. Hrgovic: IBF
+DURATION:PT3H
+LOCATION:O2 Arena London\, Great Britain
+DTSTART:20260829T210000Z
+SUMMARY:Moses Itauma vs. Filip Hrgovic
+UID:9be51242-0d39-4a18-8dc2-13ed62f772af@9be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Taylor vs. Pili: WBA\, IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Croke Park\, Ireland
+DTSTART:20260905T210000Z
+SUMMARY:Katie Taylor vs. Flora Pili
+UID:84804408-e720-4abe-adb0-bf50133f4c09@8480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McKenna vs. Oliha
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260808T200000Z
+SUMMARY:Patrick O'Connor vs. Ibrahim Mercan
+UID:8efc4e9a-dd0b-493f-9ac2-e1e0ef93d979@8efc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Johnson vs. Thorslund
+DURATION:PT3H
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T010000Z
+SUMMARY:Krystal Rosado vs. Ortiz vs. Alondra Hernandez
+UID:7209014d-6d47-4245-bca6-1d9c06032e35@7209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cameron vs. Mayer: WBC
+DURATION:PT3H
+LOCATION:bp pulse LIVE Arena\, England
+DTSTART:20260829T210000Z
+SUMMARY:Skye Nicolson vs. Miyo Yoshida
+UID:c3162c95-6bde-4cd9-a605-dd1777fb792d@c316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McHale vs. Quinn: Commonwealth
+DURATION:PT3H
+LOCATION:Lagoon Leisure Centre\, Scotland
+DTSTART:20260904T210000Z
+SUMMARY:Matt McHale vs. Conor Quinn
+UID:2036fb71-f923-4604-b34c-7cea51078ba8@2036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Johnson vs. Thorslund
+DURATION:PT3H
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T010000Z
+SUMMARY:Dainier Pero vs. Aleem Whitfield
+UID:3a54d900-f489-4576-803f-75a61a535d52@3a54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McKenna vs. Oliha
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260808T200000Z
+SUMMARY:Callum Walsh vs. Tyler Denny
+UID:cc336017-ea63-491f-a35f-49cf9ef153c7@cc33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shields vs. Scott
+DURATION:PT3H
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T010000Z
+SUMMARY:Jaquan McElroy vs. Alexander Thiel
+UID:c4e92396-98bf-46e6-985f-b89740410d17@c4e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Heavyweight
@@ -63,7 +135,63 @@ DURATION:PT3H
 LOCATION:The O2 Arena\, London\, United Kingdom
 DTSTART:20260829T220000Z
 SUMMARY:Moses Itauma vs Filip Hrgovic
-UID:200c13ee-34e5-4de0-a73c-99e21bd54f8f@200c.org
+UID:af4f1980-ee8d-482e-9b48-b0f34b591701@af4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shields vs. Scott: WBA
+DURATION:PT3H
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T020000Z
+SUMMARY:Olivia Curry vs. Danielle Perkins
+UID:8a18d028-fa5b-455e-bbd9-00e614a190c2@8a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Johnson vs. Thorslund
+DURATION:PT3H
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T010000Z
+SUMMARY:Sa'Rai Brown vs. El vs. Sheyla Moreno
+UID:05352962-7809-4640-9cee-3200a4ca080d@0535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cameron vs. Mayer: WBC\, WBO
+DURATION:PT3H
+LOCATION:bp pulse LIVE Arena\, England
+DTSTART:20260829T210000Z
+SUMMARY:Caroline Dubois vs. Amelia Moore
+UID:d5b3469b-b4dd-4b04-b259-6d3972603983@d5b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McKenna vs. Oliha
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260808T200000Z
+SUMMARY:Stephen McKenna vs. Owen O'Neill
+UID:446b3c5d-0ff3-4fe5-ab24-20a46fc4024a@446b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McKenna vs. Oliha
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260808T200000Z
+SUMMARY:Connor Coyle vs. Mark Beuke
+UID:5fdf7a79-9051-4fa8-a084-600f7f1ac496@5fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McKenna vs. Oliha
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260808T200000Z
+SUMMARY:Martin Joseph Ward vs. Artjom Kasparian
+UID:6e04ac83-fc3d-44cf-977c-5d8f38911fca@6e04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Johnson vs. Thorslund: WBA\, IBF\, WBC\, WBO
+DURATION:PT3H
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T020000Z
+SUMMARY:Cherneka Johnson vs. Dina Thorslund
+UID:b98fd9da-ef51-430d-9a7f-405489099908@b98f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Cruiserweight
@@ -71,46 +199,142 @@ DURATION:PT3H
 LOCATION:Sphere\, Las Vegas\, Nevada
 DTSTART:20260920T050000Z
 SUMMARY:Floyd Mayweather vs. Manny Pacquiao II
-UID:9117b7de-5101-46b7-9594-dd4207f79e7f@9117.org
+UID:4d7fbf33-978b-4772-8811-d0c460681663@4d7f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Davies vs. Jones: Commonwealth
+DESCRIPTION:Shields vs. Scott
 DURATION:PT3H
-LOCATION:Kings Hall\, England
-DTSTART:20260718T210000Z
-SUMMARY:Kyle Davies vs. Brandon Jones
-UID:fe817020-ad48-48b0-a639-000e995bcdc5@fe81.org
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T010000Z
+SUMMARY:Ernesto Mercado vs. Emmanuel Tagoe
+UID:ec925a80-bbdb-4ea4-a924-15c12d97eb14@ec92.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mason vs. Bell: WBO
+DESCRIPTION:Cameron vs. Mayer: WBC\, WBO
 DURATION:PT3H
-LOCATION:Wolstein Center\, USA
-DTSTART:20260705T020000Z
-SUMMARY:Abdullah Mason vs. Albert Bell
-UID:22a616c7-0535-4d39-8208-5b65b05da3cc@22a6.org
+LOCATION:bp pulse LIVE Arena\, England
+DTSTART:20260829T210000Z
+SUMMARY:Chantelle Cameron vs. Mikaela Mayer
+UID:3a00bb31-9480-4c84-bd5a-74891cb0167b@3a00.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Super Welterweight
+DESCRIPTION:Romero vs. Lopez: WBA
 DURATION:PT3H
-LOCATION:Cbus Super Stadium\, Australia
-DTSTART:20260725T170000Z
-SUMMARY:Errol Spence vs. Tim Tszyu
-UID:783271dc-6aca-4e09-937a-f16c00ebee8a@7832.org
+LOCATION:T-Mobile Arena\, USA
+DTSTART:20260823T020000Z
+SUMMARY:Rolando Romero vs. Teofimo Lopez
+UID:11acd421-c259-4e4f-b51a-50f20fdadf92@11ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mason vs. Bell: WBO
+DESCRIPTION:Johnson vs. Thorslund: IBF\, WBO
 DURATION:PT3H
-LOCATION:Wolstein Center\, USA
-DTSTART:20260705T000000Z
-SUMMARY:Abdullah Mason vs. Joseph Cordina
-UID:d8362ad9-2bfe-43e9-bca8-ae9de3897adf@d836.org
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T020000Z
+SUMMARY:Desley Robinson vs. Tammara Thibeault
+UID:f5565f4a-d38c-400f-a6e0-7cf6afef529c@f556.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mason vs. Bell
+DESCRIPTION:Serrano vs. Manzur: WBO
 DURATION:PT3H
-LOCATION:Wolstein Center\, USA
-DTSTART:20260704T230000Z
-SUMMARY:Abdurrahman Mason vs. Alvaro Huizar
-UID:dd4b8e49-1bc8-4f98-9f07-8a249d60478f@dd4b.org
+LOCATION:Pechanga Resort & Casino\, USA
+DTSTART:20260822T020000Z
+SUMMARY:Amanda Serrano vs. Lucrecia Manzur
+UID:441850ad-8ffa-4f1f-abee-8ad377afd9c2@4418.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McKenna vs. Oliha: IBF
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260808T210000Z
+SUMMARY:Aaron McKenna vs. Etinosa Oliha
+UID:9c6878d0-e68e-47cc-a71d-ebf895b44ef8@9c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Johnson vs. Thorslund
+DURATION:PT3H
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T010000Z
+SUMMARY:Jan Paul Rivera vs. Pizarro vs. Abraham Perfrecto
+UID:9dde56b6-ed4c-48b6-9dfa-c2fcc7570b43@9dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shields vs. Scott
+DURATION:PT3H
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T010000Z
+SUMMARY:Troy Isley vs. Joseph Hicks
+UID:c013e2f8-2c8d-4279-ab11-3cd69eb79ff6@c013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shields vs. Scott
+DURATION:PT3H
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T010000Z
+SUMMARY:Hakim Lopez vs. Da'Velle Smith
+UID:f619c79d-2abb-4ac8-a7b9-1f4de9fa63bb@f619.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Welterweight
+DURATION:PT3H
+LOCATION:T-Mobile Arena\, Las Vegas\, Nevada
+DTSTART:20260912T040000Z
+SUMMARY:Conor Benn vs Ryan Garcia
+UID:33ad01b8-75c6-40ef-aeb0-e10cb0927e11@33ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Simsri vs. Vicelles: IBF
+DURATION:PT3H
+LOCATION:FujisanMesse\, Japan
+DTSTART:20260926T120000Z
+SUMMARY:Thanongsak Simsri vs. Mark Vicelles
+UID:45cf63aa-0522-4c35-89b8-d26225611607@45cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liddard vs. Morello: Commonwealth
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20260822T210000Z
+SUMMARY:Tiah Ayton vs. Ellie Hellewell
+UID:ff4a6e1e-ac95-423e-a6b4-b6933abed5ee@ff4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:McKenna vs. Oliha
+DURATION:PT3H
+LOCATION:3Arena\, Ireland
+DTSTART:20260808T200000Z
+SUMMARY:Sam Hickey vs. Brad Axe
+UID:7347f4e9-bea1-4a7d-b7d3-717681c6d83a@7347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Liddard vs. Morello: Commonwealth
+DURATION:PT3H
+LOCATION:York Hall\, Great Britain
+DTSTART:20260822T210000Z
+SUMMARY:Jimmy Sains vs. Tom Cowling
+UID:c4307a0b-cc6b-453a-ba6c-2f2b1e9f3b79@c430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Johnson vs. Thorslund
+DURATION:PT3H
+LOCATION:Caribe Royale Orlando\, USA
+DTSTART:20260809T010000Z
+SUMMARY:Angelo Herndandez vs. Jose Fernandez
+UID:6c12498e-28cb-4332-a2b8-f7a48620c85e@6c12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Heavyweight
+DURATION:PT3H
+LOCATION:Utilita Arena Birmingham\, Birmingham\, United Kingdom
+DTSTART:20261003T220000Z
+SUMMARY:Ben Whittaker vs Conor Wallace
+UID:2841eb40-4b11-4f18-bcf3-eca288e1a405@2841.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Shields vs. Scott
+DURATION:PT3H
+LOCATION:State Farm Arena\, USA
+DTSTART:20260816T010000Z
+SUMMARY:Daniel Mercado vs. Rahmel McKinley
+UID:24d463fb-69ab-40a4-83e6-9e8e71b04b48@24d4.org
 END:VEVENT
 END:VCALENDAR
